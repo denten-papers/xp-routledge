@@ -10,8 +10,10 @@ degree-granting programs and certificates, we can start thinking of training
 digital humanists from the ground up, in an organic manner, starting with the
 basics and moving up to advanced research.
 
-In short, learn to code. Critical practice in humanities computing, close
-reading, slow, deliberate, self-reflective, probing.
+In short, learn to code. When it Critical practice in humanities computing,
+close reading, slow, deliberate, self-reflective, probing.
+
+Programs in CS. D is for digital.
 
 Python and R. Advantages of each. Shell.
 
