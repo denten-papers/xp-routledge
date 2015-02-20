@@ -93,23 +93,14 @@ texts.
 
 # Review of the main competitive books
 
-Briefly review each of the main competitors to your work. These could be books
-covering the same subject matter or books which are used as set texts in
-courses in which you hope your book could be used as a substitute or additional
-text. Please indicate author, title, publisher, price, date of publication,
-length, hardback and/or paperback. Identify the strengths and weaknesses of
-each book, and how your book will be different/better. If different books are
-used in domestic and international markets, please also provide details for
-these competitors. If there are no direct rivals, review the books which are
-most similar to your proposed book.
-
 There is a paucity of texts that occupy the niche targeted by the Literature
 and Comparative Thought series at the intersection of DH and literary studies.
-Before getting to those, allow me speak to the market at large.
+Before getting to the individual comparables, allow me speak to the market at
+large.
 
 The first generation of books about the Digital Humanities retained an
 expansionary, manifesto-like quality, important to the early development of the
-field. These spoke generally to the humanities (rather than addressing
+field. These spoke generally to "the humanities" (rather than addressing
 a specific discipline): they often took shape in edited collections, as was the
 case with the seminal *Companion to Digital Humanities* (Willey-Blackwell,
 2004)[^ln-comp]; compendia of essays and blog posts, as was the case with
@@ -117,18 +108,18 @@ case with the seminal *Companion to Digital Humanities* (Willey-Blackwell,
 volumes like *Digital_Humanities* (MIT, 2012) Digital_Humanities by Jeffrey
 Schnapp, Johanna Drucker, Anne Burdick, Peter Lunenfeld, and Todd
 Presner[^ln-dh]; or, finally, as institutional set pieces written by prominent
-public intellectuals and administrators like 2013 *Hacking the Academy: New
+public intellectuals and administrators like the 2013 *Hacking the Academy: New
 Approaches to Scholarship and Teaching from Digital Humanities* by Dan Cohen
 and Joseph Scheinfeldt (Michigan UP).[^ln-up]
 
 [^ln-comp]: Ed. John M. Unsworth, Susan Schreibman, and Ray Siemens. 640 pages.
-$59.95 Paper, $235.95 Hard.
+$59.95 paper, $235.95 cloth.
 
-[^ln-debates]: Ed. Matt Gold. 504 pages. $34.95 Paper, $20.86 Digital, $99.75 Hard.
+[^ln-debates]: Ed. Matt Gold. 504 pages. $34.95 paper, $20.86 ebook, $99.75 cloth.
 
-[^ln-dh]: 152 pages. $24.99 Trade or Digital.
+[^ln-dh]: 152 pages. $24.99 trade or ebook.
 
-[^ln-up]: 176 pages. $22.95 Paper or Digital, $70 Hard.
+[^ln-up]: 176 pages. $22.95 paper or ebook, $70 cloth.
 
 The current, "second generation," wave of DH is beginning to absorb the impact
 of the research program and administrative reform into its constituent fields.
@@ -136,25 +127,54 @@ I hold that such specification is not only necessary, but also that it reaches
 a much wider audience. Few publics care about "the humanities" in the abstract,
 and less so colleagues from sciences and the arts whose practice was already
 significantly impacted by computational methodology and through other
-vagrancies of the digital condition. The application of Digital Humanities to
-specific questions in literary scholarship, as they manifest in pressing
-problems of collaborative authorship, digital storytelling, the quality of
-online deliberation, and in the politics of the archive and shared memory
-formation (to name just a few), begin to gain a measure of specificity that
-points to concrete ways of collaboration between diverse practitioners. Such
-questions are interesting to computer scientists and game designers alike.
+vagrancies of the advancing digital condition. The application of Digital
+Humanities to specific questions in literary scholarship, as they manifest in
+pressing problems of collaborative authorship, digital storytelling, the
+quality of online deliberation, and in the politics of the archive and shared
+memory formation (to name just a few), begin to gain a measure of specificity
+that points to concrete ways of collaboration between diverse practitioners.
+Such questions are interesting to computer scientists and game designers alike.
 
-More field specific. Writing History in the Digital Age University of Michigan
-Press. 2013. By  Jack Dougherty (Author), Kristen Nawrotzki (Author).
+A small number of recent books have began to direct generalist DH approaches
+and methodologies to the questions and traditions governing their specific area
+of expertise. To these we may attribute *Writing History in the Digital Age
+(Michigan UP, 2013),^[ln-hist], *Digital Critical Editions* (U of Illinois,
+2014),[^ln-critical] and *Oral History and Digital Humanities: Voice, Access,
+and Engagement* (Palgrave, 2014).[^ln-palgrave]
 
-Macroanalysis: Digital Methods and Literary History (Topics in the Digital Humanities) [Kindle Edition]
+[^ln-hist]: Jack Dougherty and Kristen Nawrotzki. 322 pages. $29.95 ebook and
+paper, $80 cloth.
 
-Oral History and Digital Humanities: Voice, Access, and Engagement (Palgrave Studies in Oral History)
-Dec 17, 2014
+[^ln-critical]: Ed. Daniel Apollon et. al. 368 pages. $65 cloth. $30 ebook.
 
-In this volume, Matthew L. Jockers introduces readers to large-scale literary computing and the revolutionary potential of macroanalysis--a new approach to the study of the literary record designed for probing the digital-textual world as it exists today, in digital form and in large quantities. Using computational analysis to retrieve key words, phrases, and linguistic patterns across thousands of texts in digital libraries, researchers can draw conclusions based on quantifiable evidence regarding how literary trends are employed over time, across periods, within regions, or within demographic groups, as well as how cultural, historical, and societal linkages may bind individual authors, texts, and genres into an aggregate literary culture. Moving beyond the limitations of literary interpretation based on the close-reading of individual works, Jockers describes how this new method of studying large collections of digital material can help us to better understand and contextualize the individual works within those collections.
+[^ln-palgrave]: Ed. Douglas A. Boyd and Mary A. Larson. 256 pages. $90 cloth,
+$16.50 ebook, $25 paper.
 
-A New Republic of Letters, MC Gann
+The major (and one of the only) volumes in the nascent second generation
+pertinent to the study of literature is *Macroanalysis: Digital Methods and
+Literary History* by Matthew L. Jockers (Illinois, 2013),[^ln-macro] which is
+itself a more technical extension of a far more influential *Distant Reading*,
+by Franco Moretti (Verso, 2013).[^ln-franco]
+
+[^ln-macro]: 208 pages. $30 paper and ebook, $90 cloth.
+
+[^ln-franco]: 224 pages. $29.95 paper, $24.95 ebook, $95 cloth.
+
+Although respected in the DH community, *Macroanalysis* was not received well
+by wider community of literary scholars. This could be due in part to its
+rather terse, technical nature, and in part to its failure to connect to the
+literary-theoretical tradition. Jockers writes as an engineer visiting literary
+studies (where it should be the other way around). The work is full of specific
+technologies: libraries and software tools that our bound to become obsolete
+shortly after publication. Similarly to Stephen Ramsey's *Reading Machines:
+Toward an Algorithmic Criticism* (published in the same series in
+2011[^ln-ramsey]), *Macroanalysis* promises nothing less than a revolution (an
+often repeated phrase in both books), but delivers only modest confirmation of
+accepted knowledge.
+
+[^ln-ramsey]: University of Illinois Press. 108 pages. $25 paper, $65 cloth.
+
+My contribution aims to change all that.
 
 # Chapter Outline
 
