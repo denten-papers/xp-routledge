@@ -107,7 +107,7 @@ case with the seminal *Companion to Digital Humanities* (Willey-Blackwell,
 *Debates in Digital Humanities* (Minnesota, 2012)[^ln-debates]; co-authored
 volumes like *Digital_Humanities* (MIT, 2012) Digital_Humanities by Jeffrey
 Schnapp, Johanna Drucker, Anne Burdick, Peter Lunenfeld, and Todd
-Presner[^ln-dh]; and, finally, as institutional set pieces written by prominent
+Presner[^ln-dh2]; and, finally, as institutional set pieces written by prominent
 public intellectuals and administrators like the 2013 *Hacking the Academy: New
 Approaches to Scholarship and Teaching from Digital Humanities* by Dan Cohen
 and Joseph Scheinfeldt (Michigan UP).[^ln-up]
@@ -117,7 +117,7 @@ $59.95 paper, $235.95 cloth.
 
 [^ln-debates]: Ed. Matt Gold. 504 pages. $34.95 paper, $20.86 ebook, $99.75 cloth.
 
-[^ln-dh]: 152 pages. $24.99 trade or ebook.
+[^ln-dh2]: 152 pages. $24.99 trade or ebook.
 
 [^ln-up]: 176 pages. $22.95 paper or ebook, $70 cloth.
 
@@ -283,10 +283,8 @@ This section containing a glossary of key operational terms, as requested.
 
 This appendix will contain a schematic for self-directed study in the humanities and a blueprint for a possible curriculum for a certificate-granting program in the field.
 
-# Format
+# Format & Timing
 
 I write concisely and prefer short chapters between 5,000-8,000 words in length, giving the book the desired length between 60,000 and 80,000 words. Although no illustrations are necessary, the book will have 6-12 line drawings (figures and tables).
-
-# Timing
 
 I plan on having a draft of the manuscript ready by January 1, 2016.
