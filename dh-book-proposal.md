@@ -45,7 +45,7 @@ develop the digital humanities.
 
 The primary market for the *Literature and the Digital Humanities* includes:
 
-- advanced undergraduate courses in literary studies that wish to introduce
+- advanced undergraduate courses in literary studies wishing to introduce
 their students to the field of digital humanities and computational culture
 studies;
 
@@ -107,7 +107,7 @@ case with the seminal *Companion to Digital Humanities* (Willey-Blackwell,
 *Debates in Digital Humanities* (Minnesota, 2012)[^ln-debates]; co-authored
 volumes like *Digital_Humanities* (MIT, 2012) Digital_Humanities by Jeffrey
 Schnapp, Johanna Drucker, Anne Burdick, Peter Lunenfeld, and Todd
-Presner[^ln-dh]; or, finally, as institutional set pieces written by prominent
+Presner[^ln-dh]; and, finally, as institutional set pieces written by prominent
 public intellectuals and administrators like the 2013 *Hacking the Academy: New
 Approaches to Scholarship and Teaching from Digital Humanities* by Dan Cohen
 and Joseph Scheinfeldt (Michigan UP).[^ln-up]
@@ -127,7 +127,7 @@ I hold that such specification is not only necessary, but also that it reaches
 a much wider audience. Few publics care about "the humanities" in the abstract,
 and less so colleagues from sciences and the arts whose practice was already
 significantly impacted by computational methodology and through other
-vagrancies of the advancing digital condition. The application of Digital
+vagrancies of the advancing digital condition. The application of the Digital
 Humanities to specific questions in literary scholarship, as they manifest in
 pressing problems of collaborative authorship, digital storytelling, the
 quality of online deliberation, and in the politics of the archive and shared
@@ -150,7 +150,7 @@ paper, $80 cloth.
 [^ln-palgrave]: Ed. Douglas A. Boyd and Mary A. Larson. 256 pages. $90 cloth,
 $16.50 ebook, $25 paper.
 
-The major (and one of the only) volumes in the nascent second generation
+The major (and few of the only) volumes in the nascent second generation
 pertinent to the study of literature is *Macroanalysis: Digital Methods and
 Literary History* by Matthew L. Jockers (Illinois, 2013),[^ln-macro] which is
 itself a more technical extension of a far more influential *Distant Reading*,
@@ -165,72 +165,128 @@ by wider community of literary scholars. This could be due in part to its
 rather terse, technical nature, and in part to its failure to connect to the
 literary-theoretical tradition. Jockers writes as an engineer visiting literary
 studies (where it should be the other way around). The work is full of specific
-technologies: libraries and software tools that our bound to become obsolete
-shortly after publication. Similarly to Stephen Ramsey's *Reading Machines:
-Toward an Algorithmic Criticism* (published in the same series in
+technologies: computer language libraries and software tools that are bound to
+become obsolete shortly after publication. Similar to Stephen Ramsey's *Reading
+Machines: Toward an Algorithmic Criticism* (published in the same series in
 2011[^ln-ramsey]), *Macroanalysis* promises nothing less than a revolution (an
 often repeated phrase in both books), but delivers only modest confirmation of
 accepted knowledge.
 
 [^ln-ramsey]: University of Illinois Press. 108 pages. $25 paper, $65 cloth.
 
-My contribution aims to change all that.
+In *Literature and the Digital Humanities* I plan to take a different tack.
+Rather than describing a revolution, my approach connects the history of the
+discipline to the Digital Humanities research program in an evolutionary way.
+Going beyond computation, I plan to describe DH as an expansion of the
+literary-critical tradition, opening up to new archives of study and to new
+methodologies. My book ends with a productive critique of the field itself:
+noting its successes and outlining strategies to remedy its failures. I want my
+reader to leave the book with a sense of possibility: perceiving rich and yet
+unexplored areas of scholarship needing our urgent attention.
 
 # Chapter Outline
 
-Please list chapter headings and provide at least one paragraph of explanation
-on what you intend to cover in each chapter. Indicate the basic structure and
-features of each chapter, e.g. introduction, argument summary, case studies,
-questions for discussion, assignments, further reading. For the Literature and
-Contemporary Thought series, the basic structure should follow these
-guidelines:
+### Chapter 1: Literature and Digital Humanities
 
-- Each book should contain a glossary of terms and words that readers may
+As specified by the series editors the first chapter will outline the relevance
+of the topic, relating it to contemporary debates in literary studies and
+digital humanities, "raising the questions that the rest of the book will
+answer." Beyond academic debates, I will outline the broadly cultural relevance
+of problems that can motivate scholarly interest at the intersection of these
+two fields.
 
-- Rather than taking a historical approach, the first chapter should be called
-something like "Literature and Philosophy/Digital
-Humanities/Science/Animals/Food Now."
+## Part I: History
 
-- It should explain why the topic is relevant, interesting and important at
-this moment and how it relates to contemporary debates. 
+### Chapter 2: Intellectual Roots
 
-- It should raise the questions that the rest of the book will answer.
+This chapter will offer an introduction to the long-history of the digital
+humanities and of quantitative approaches to the study of literature. Of
+particular importance in this chapter is to counteract the common "shallow"
+vision of the field, which sees its roots in "humanities computing" pioneered
+by Father Roberto Busa in the 1940s. Instead the emphasis will be on the
+influence of formalism on literary studies, its relationship to structuralism,
+and post-structuralist critique.
 
-- This chapter can then offer a background and a brief introduction to the
-particular area of study the book is intended to cover.
+### Chapter 3: Humanities Computing
 
-- should explain at what point this area of study became relevant to
-literature, how the relationship between the two areas was initially perceived
-– opposing, complementary etc. – and how it evolved.
+This chapter will discuss the application of computational methods to literary
+studies more narrowly. A case study in authorship attribution will help
+illustrate the chapter.
 
-- The following chapters should then trace the history, arguments and debates
-involved in the topic full circle, returning to the issues raised in the
-initial chapter. not be familiar with (especially if the book deals with topics
-such as science or philosophy).
+### Chapter 4: The Rise of DH
 
-- The book should also include a list of annotated further reading suggestions
-so that it can be used as a springboard for further research or study.
+Chapter 4 will contain an outline the much broader intellectual and
+institutional program of the Digital Humanities. The relationship between
+making and knowing. Several case studies will illustrate the strengths and the
+weaknesses of the approach.
 
-There is some flexibility in this structure (e.g. in certain cases the second
-and third chapters might meaningfully be merged into one), but whatever chapter
-structure the proposal adopts needs to cover the basic dimensions outlined
-here.
+## Part II: Theory & Practice
+
+The next three chapters outline contemporary developments in digital
+humanities, along the lines of the "three pillars" used to capture the
+diversity in contemporary thought and practice. I will be slightly more
+schematic in describing these chapters to avoid repetition.
+
+### Chapter 5: Computational Culture Studies
+
+Contextualizing Humanities Computing and the Digital Humanities within the
+larger "computational turn" affecting all disciplines of human knowledge
+production. The computational turn as (1) a set of new problems posed by
+quantification of human experience and the ubiquity of computing devices and
+(2) as methodology offering insight at new scales of analysis.
+
+### Chapter 7: Knowledge Design
+
+The changing mechanics of knowledge production and dissemination. Cultural
+memory and personal archives. Textual interfaces (ebooks and word processors).
+Future of reading. Shared knowledge formation (Wikipedia and Stack Exchange).
+The difference between computer science and software engineering and their
+relevance to the study of literature.
+
+### Chapter 8: Institutional Change
+
+The rapidly changing dynamics of book publishing. The changing nature of
+scientific knowledge (reproducibility and access to findings). Transforming
+institutions of learning. Digital pedagogy. Transparency in governance. Global issues.
+
+## Part III: Ways Forward
+
+### Chapter 9: Everyday Literature
+
+In this chapter will examine the ways in which the Digital Humanities challenge
+conventional notions of literary production. A case study in our daily
+encounter with text and computation.
+
+### Chapter 10: Textual Contagion
+
+In this chapter, I will examine the life of texts outside of academia. The two
+case studies here will come from the Courtroom and from the Hospital. In
+looking at both of these places as a type of information-processing
+environment, I will speculate on the role of a literary scholar in the 21st
+century.
+
+### Chapter 11: Life in a Humanities Lab
+
+In this chapter, I will describe the challenges of running a laboratory in the humanities. Making good on the metaphor of the laboratory. Best practices. This section will describe day-to-day operation of Columbia's Group for Experimental Method in the Humanities.
+
+### Appendix I: Annotated Reading List
+
+As specified by the editors "the book should also include a list of annotated
+further reading suggestions so that it can be used as a springboard for further
+research or study."
+
+### Appendix II: Glossary of terms
+
+This section containing a glossary of key operational terms, as requested.
+
+### Appendix III: Becoming Digital
+
+This appendix will contain a schematic for self-directed study in the humanities and a blueprint for a possible curriculum for a certificate-granting program in the field.
 
 # Format
 
-Please indicate how long you think the manuscript will be, giving a total
-number of words. Most manuscripts in the Literature and Contemporary Thought
-series should be between 60,000 and 80,000 words in length. If you plan to
-include illustrations in the book, please state how many, and whether they will
-be line-drawings (figures, tables etc.) or half-tone illustrations
-(photographs). If possible, indicate the source of these images, so that we can
-form a rough idea of likely reproduction costs.
+I write concisely and prefer short chapters between 5,000-8,000 words in length, giving the book the desired length between 60,000 and 80,000 words. Although no illustrations are necessary, the book will have 6-12 line drawings (figures and tables).
 
 # Timing
 
-Please give a realistic date when you intend to submit the complete manuscript.
-
-# Curriculum Vitae
-
-- attach Digital Displacement
-- attach CV
+I plan on having a draft of the manuscript ready by January 1, 2016.
