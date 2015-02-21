@@ -12,9 +12,9 @@ a broader audience, to the new and growing field of the Digital Humanities
 study of literature. My approach to writing a volume of this sort aims to
 achieve two goals: *first*, descriptive, giving shape and intellectual history
 to the variety of scholarly practices that loosely identify as the Digital
-Humanities, and *second*, proscriptive, imagining an intellectual future for
-Digital Humanities that is more inclusive and more intelligible to concomitant
-developments in the life of the modern university.
+Humanities, and *second*, proscriptive, imagining a future for the field more
+inclusive and more intelligible to concomitant developments in the life of the
+modern university.
 
 As universities across the country and globally invest in programs related to
 the DH movement,[^ln-dh] a need arises for a programmatic vision of a field
@@ -93,8 +93,8 @@ texts.
 
 # Review of the main competitive books
 
-There is a paucity of texts that occupy the niche targeted by the Literature
-and Comparative Thought series at the intersection of DH and literary studies.
+There is a paucity of texts that occupy the niche targeted by the *Literature
+and Comparative Thought* series at the intersection of DH and literary studies.
 Before getting to the individual comparables, allow me speak to the market at
 large.
 
@@ -122,18 +122,19 @@ $59.95 paper, $235.95 cloth.
 [^ln-up]: 176 pages. $22.95 paper or ebook, $70 cloth.
 
 The current, "second generation," wave of DH is beginning to absorb the impact
-of the research program and administrative reform into its constituent fields.
-I hold that such specification is not only necessary, but also that it reaches
-a much wider audience. Few publics care about "the humanities" in the abstract,
-and less so colleagues from sciences and the arts whose practice was already
-significantly impacted by computational methodology and through other
-vagrancies of the advancing digital condition. The application of the Digital
-Humanities to specific questions in literary scholarship, as they manifest in
-pressing problems of collaborative authorship, digital storytelling, the
-quality of online deliberation, and in the politics of the archive and shared
-memory formation (to name just a few), begin to gain a measure of specificity
-that points to concrete ways of collaboration between diverse practitioners.
-Such questions are interesting to computer scientists and game designers alike.
+of the research program and administrative reform proposed by the first into
+its constituent fields. I hold that such specification is not only necessary,
+but also that it reaches a much wider audience. Few publics care about "the
+humanities" in the abstract, and less so colleagues from sciences and the arts
+whose practice was already significantly impacted by computational methodology
+and through other vagrancies of the advancing digital condition. The
+application of the Digital Humanities to specific questions in literary
+scholarship, as they manifest in pressing problems of collaborative authorship,
+digital storytelling, the quality of online deliberation, and in the politics
+of the archive and shared memory formation (to name just a few), begin to gain
+a measure of specificity that points to concrete ways of collaboration between
+diverse practitioners. Such questions are interesting to computer scientists
+and game designers alike.
 
 A small number of recent books have began to direct generalist DH approaches
 and methodologies to the questions and traditions governing their specific area
@@ -150,11 +151,11 @@ paper, $80 cloth.
 [^ln-palgrave]: Ed. Douglas A. Boyd and Mary A. Larson. 256 pages. $90 cloth,
 $16.50 ebook, $25 paper.
 
-The major (and few of the only) volumes in the nascent second generation
-pertinent to the study of literature is *Macroanalysis: Digital Methods and
-Literary History* by Matthew L. Jockers (Illinois, 2013),[^ln-macro] which is
-itself a more technical extension of a far more influential *Distant Reading*,
-by Franco Moretti (Verso, 2013).[^ln-franco]
+Some of the few major volumes in the nascent second generation pertinent to the
+study of literature comprise *Macroanalysis: Digital Methods and Literary History* by
+Matthew L. Jockers (Illinois, 2013),[^ln-macro] which is itself a more
+technical extension of a far more influential *Distant Reading*, by Franco
+Moretti (Verso, 2013).[^ln-franco]
 
 [^ln-macro]: 208 pages. $30 paper and ebook, $90 cloth.
 
@@ -253,9 +254,9 @@ institutions of learning. Digital pedagogy. Transparency in governance. Global i
 
 ### Chapter 9: Everyday Literature
 
-In this chapter will examine the ways in which the Digital Humanities challenge
-conventional notions of literary production. A case study in our daily
-encounter with text and computation.
+In this chapter, I will examine the ways in which the Digital Humanities
+challenge conventional notions of literary production. A case study in our
+daily encounter with text and computation.
 
 ### Chapter 10: Textual Contagion
 
@@ -285,6 +286,9 @@ This appendix will contain a schematic for self-directed study in the humanities
 
 # Format & Timing
 
-I write concisely and prefer short chapters between 5,000-8,000 words in length, giving the book the desired length between 60,000 and 80,000 words. Although no illustrations are necessary, the book will have 6-12 line drawings (figures and tables).
+I write concisely and prefer short chapters between 5,000-8,000 words in
+length, giving the book the desired length between 60,000 and 80,000 words.
+Although no photographic illustrations are necessary, the book will have 6-12
+line drawings (figures and tables).
 
 I plan on having a draft of the manuscript ready by January 1, 2016.
