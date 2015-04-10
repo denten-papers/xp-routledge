@@ -8,7 +8,7 @@ author: Dennis Tenen
 
 The purpose of this volume is to introduce academic readers, along with
 a broader audience, to the new and growing field of the Digital Humanities
-(DH), particularly as that field interests with the research program in the
+(DH), particularly as that field interesects with the research program in the
 study of literature. My approach to writing a volume of this sort aims to
 achieve two goals: *first*, descriptive, giving shape and intellectual history
 to the variety of scholarly practices that loosely identify as the Digital
@@ -17,7 +17,7 @@ inclusive and more intelligible to concomitant developments in the life of the
 modern university.
 
 As universities across the country and globally invest in programs related to
-the DH movement,[^ln-dh] a need arises for a programmatic vision of a field
+the digital humanities,[^ln-dh] a need arises for a programmatic vision of a field
 that can guide the formation of certificate programs, research labs, and
 undergraduate curricula. I plan for the present volume to answer the demand for
 such a vision and to go further in creating a paradigmatic "introduction to the
@@ -152,33 +152,28 @@ paper, $80 cloth.
 $16.50 ebook, $25 paper.
 
 Some of the few major volumes in the nascent second generation pertinent to the
-study of literature comprise *Macroanalysis: Digital Methods and Literary History* by
-Matthew L. Jockers (Illinois, 2013),[^ln-macro] which is itself a more
-technical extension of a far more influential *Distant Reading*, by Franco
-Moretti (Verso, 2013).[^ln-franco]
+study of literature comprise *Macroanalysis: Digital Methods and Literary
+History* by Matthew L. Jockers (Illinois, 2013),[^ln-macro] which itself builds
+on the influential *Distant Reading*, by Franco Moretti (Verso,
+2013).[^ln-franco]
 
 [^ln-macro]: 208 pages. $30 paper and ebook, $90 cloth.
 
 [^ln-franco]: 224 pages. $29.95 paper, $24.95 ebook, $95 cloth.
 
-Although respected in the DH community, *Macroanalysis* was not received well
-by wider community of literary scholars. This could be due in part to its
-rather terse, technical nature, and in part to its failure to connect to the
-literary-theoretical tradition. Jockers writes as an engineer visiting literary
-studies (where it should be the other way around). The work is full of specific
-technologies: computer language libraries and software tools that are bound to
-become obsolete shortly after publication. Similar to Stephen Ramsey's *Reading
+Although respected in the DH community, *Macroanalysis* has yet to gain the
+traction one would hope for it to have in the teaching of methodology in
+literary studies. This could be due in part to its technical difficulty. The
+work is full of specific technologies: computer language libraries and software
+tools that could be unfamiliar to the general reader. Stephen Ramsay's *Reading
 Machines: Toward an Algorithmic Criticism* (published in the same series in
-2011[^ln-ramsey]), *Macroanalysis* promises nothing less than a revolution (an
-often repeated phrase in both books), but delivers only modest confirmation of
-accepted knowledge.
+2011[^ln-ramsay]), .
 
-[^ln-ramsey]: University of Illinois Press. 108 pages. $25 paper, $65 cloth.
+[^ln-ramsay]: University of Illinois Press. 108 pages. $25 paper, $65 cloth.
 
-In *Literature and the Digital Humanities* I plan to take a different tack.
-Rather than describing a revolution, my approach connects the history of the
-discipline to the Digital Humanities research program in an evolutionary way.
-Going beyond computation, I plan to describe DH as an expansion of the
+In *Literature and the Digital Humanities*, my approach connects the history of
+the discipline to the Digital Humanities research program in an evolutionary
+way.  Going beyond computation, I plan to describe DH as an expansion of the
 literary-critical tradition, opening up to new archives of study and to new
 methodologies. My book ends with a productive critique of the field itself:
 noting its successes and outlining strategies to remedy its failures. I want my
