@@ -263,7 +263,13 @@ century.
 
 ### Chapter 11: Life in a Humanities Lab
 
-In this chapter, I will describe the challenges of running a laboratory in the humanities. Making good on the metaphor of the laboratory. Best practices. This section will describe day-to-day operation of Columbia's Group for Experimental Method in the Humanities.
+Snapshot of three labs. At Columbia. Plan to approach either MOretti, Jockers,
+etc. for contributions to this chapter.
+
+In this chapter, I will describe the challenges of running a laboratory in the
+humanities. Making good on the metaphor of the laboratory. Best practices. This
+section will describe day-to-day operation of Columbia's Group for Experimental
+Method in the Humanities.
 
 ### Appendix I: Annotated Reading List
 
