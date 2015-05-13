@@ -1,6 +1,7 @@
 ---
 title: "Literature and the Digital Humanities (Book Proposal)"
 author: Dennis Tenen
+bibliography: plain-text.bib
 
 ---
 
@@ -169,12 +170,12 @@ cloth.
 
 # Chapter Outline
 
-## Chapter 1: Literature and Digital Humanities Now
+## Chapter 1: Literature and the Digital Humanities Now
 
 The first chapter will pose and begin answering the question shaping the rest
 of the book: What are the digital humanities? and Why do they matter? In making
 a broad summary of the field, I organize the variety of existing practices into
-three main categories.  The *first* deals with computational approaches to the
+three main categories. The *first* deals with computational approaches to the
 study of literature and culture. Like the computational turn affecting many
 other disciplines, advancements in natural language processing techniques and
 the wide-spread availability of computational power have made it possible for
@@ -205,7 +206,7 @@ interventions that redress imbalances of access and participation along the
 lines of gender, race, and geography. This categories capture the diversity of
 practices in the field and help structure Part II of the book.
 
-## Chapter 2: Intellectual Roots (Background)
+## Chapter 2: Intellectual Roots (Background + Relevance)
 
 This chapter will offer an introduction to the long-history of the digital
 humanities and of quantitative approaches to the study of literature. Of
@@ -213,31 +214,62 @@ particular importance in this chapter is to counteract the common "shallow"
 vision of the field, which sees its roots in "humanities computing" pioneered
 by Father Roberto Busa in the 1940s. Instead the emphasis will be on the
 influence of formalism on literary studies, its relationship to structuralism,
-and post-structuralist critique.
-
-This chapter will discuss the application of computational methods to literary
-studies more narrowly. A case study in authorship attribution will help
-illustrate the chapter.
-
-will contain an outline the much broader intellectual an institutional program
-of the Digital Humanities. The relationship between making and knowing. Several
-case studies will illustrate the strengths and the weaknesses of the approach.
+and post-structuralist critique. The chapter will progress with the development
+of the field from "literary and linguistic computing" to the broader variety of
+practices in the "digital humanities" as the field exists today.
 
 ## Chapter 3: Computational Turn
 
-Contextualizing Humanities Computing and the Digital Humanities within the
-larger "computational turn" affecting all disciplines of human knowledge
-production. The computational turn as (1) a set of new problems posed by
-quantification of human experience and the ubiquity of computing devices and
-(2) as methodology offering insight at new scales of analysis.
+The following three chapters follow the outline presented in the first. Each of
+these will contain a case study, illustrating the impact of digital
+humanities-inflected work on a specific problem or paradigm in traditional
+literary scholarship.
+
+Chapter three deals with the first of the three broad rubrics: computational
+turn, knowledge design, and institutional transformation. I begin by
+contextualizing the turn towards "distant reading" and computation in literary
+studies within the larger "computational turn," affecting disciplines across
+the university. The various approaches to distant reading include macroanalysis
+in literary studies [@jockers_macroanalysis_2013; @moretti_distant_2013;
+@ramsay_reading_2011], culturomics in economy [@aiden_uncharted_2014],
+e-discovery in law [@scheindlin_electronic_2004; @scheindlin_scheindlin_2009],
+automatic essay evaluation in education [@shermis_handbook_2013], and medical
+informatics in medicine [@shortliffe_biomedical_2013], among others.
+
+I will then summarize the variety methodologies common to these approaches,
+including statistical natural language processing [@manning_foundations_1999;
+@jurafsky_speech_2008], automatic summarization [@radev_centroid-based_2004;
+@nenkova_pyramid_2007], machine learning [@rasmussen_gaussian_2006;
+@flach_machine_2012], network analysis [@opsahl_node_2010;
+@szell_measuring_2010; @takhteyev_geography_2012], and topic modeling
+[@wallach_topic_2006; @blei_probabilistic_2012]. The chapter will conclude with
+a case study, most likely chosen from one of the pamphlets published by Franco
+Moretti's lab.
 
 ## Chapter 4: Knowledge Design
 
-The changing mechanics of knowledge production and dissemination. Cultural
-memory and personal archives. Textual interfaces (ebooks and word processors).
-Future of reading. Shared knowledge formation (Wikipedia and Stack Exchange).
-The difference between computer science and software engineering and their
-relevance to the study of literature.
+Chapter four will deal with what I call "knowledge design": a sphere of
+scholarly activity that involves online critical edition making, archive
+formation, digitization, creation of tagged corpora, collaborative annotation,
+and textual interface design. As with the previous chapter, my aim here is to
+show the continuity of these practices with long-standing concerns in literary
+studies like textual criticism, print making, and book design.
+
+Knowledge design, as I will then argue, is fundamental not only to the *study*
+of literature, but also to the material structure of the literary encounter,
+which affects all higher modes of reading, writing, and interpretation: close
+and distant. The building of archives shapes the formation of shared cultural
+memory, for example, just as e-book design may alter the readers understaning
+of the text. All forms of contemporary textuality (including print) pass
+through some form of digital being, from typesetting tools to the building of
+user interfaces from online book stores to search engines and e-book readers.
+It is vital therefore that literary scholars do not leave these fundamentally
+literary, textual concerns to technologists without deep humanistic training,
+sensitive to history and cultural context.
+
+The chapter will end with a case study from a prominent online archive of the
+sort: something along the lines of the *Perseus Digital Library*, Andrew
+Stauffer's *Book Traces* project, or Jerome McGann's *Rossetti Archive*.
 
 ## Chapter 5: Institutional Transformation
 
@@ -252,8 +284,7 @@ humanities. Making good on the metaphor of the laboratory. Best practices. This
 section will describe day-to-day operation of Columbia's Group for Experimental
 Method in the Humanities. Three Labs.
 
-##  Chapter 7: Criticism and Ways Forward
-
+## Chapter 7: Criticism and Ways Forward
 
 ### Appendix I: Annotated Reading List
 
