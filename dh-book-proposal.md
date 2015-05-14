@@ -9,7 +9,7 @@ bibliography: plain-text.bib
 
 The purpose of this volume is to introduce academic readers, along with a
 broader audience, to the new and growing field of the Digital Humanities (DH),
-particularly as that field interesects with the research program in the study
+particularly as that field intersects with the research program in the study
 of literature. My approach to writing a volume of this sort aims to achieve two
 goals: *first*, descriptive, giving shape and intellectual history to the
 variety of scholarly practices that loosely identify as the Digital Humanities,
@@ -67,15 +67,15 @@ and computer science.
 
 Several prominent institutions are beginning to offer degree- or certificate-
 granting programs in Digital Humanities. These include MA, PhD, and
-undergraduate programs at King’s College London; MA and undergraduate programs
+undergraduate programs at King's College London; MA and undergraduate programs
 at Loyola University, Chicago; the Digital Humanities Minor at UCLA; the DH
 undergraduate program at Michigan State University; the DH and Technology
 program at Brigham Young; the MA program in Humanities Computing at University
 of Alberta, Canada; the PhD, MA, and undergraduate programs at University
 College, London and University College, Cork; the MA program in DH at CUNY; the
 Digital Cultures and Creativity undergraduate program at University of
-Maryland; the MA in DH at Brandeis University; the M.A. in Digital Humanities
-at the University of Virginia; Media Technology and Games program at the IT
+Maryland; the MA in DH at Brandeis University; the MA in Digital Humanities at
+the University of Virginia; Media Technology and Games program at the IT
 University of Copenhagen; MA and PhD in Digital Humanities at Maynooth
 University, Ireland; the Digital Media and Cultural Theory undergraduate
 program at Hampshire College; the Certificate program in DH at University of
@@ -170,7 +170,9 @@ cloth.
 
 # Chapter Outline
 
-## Chapter 1: Literature and the Digital Humanities Now
+## Part I: Interfaces
+
+### Chapter 1: Literature and the Digital Humanities Now
 
 The first chapter will pose and begin answering the question shaping the rest
 of the book: What are the digital humanities? and Why do they matter? In making
@@ -206,7 +208,7 @@ interventions that redress imbalances of access and participation along the
 lines of gender, race, and geography. This categories capture the diversity of
 practices in the field and help structure Part II of the book.
 
-## Chapter 2: Intellectual Roots (Background + Relevance)
+### Chapter 2: Intellectual Roots[^ln-roots]
 
 This chapter will offer an introduction to the long-history of the digital
 humanities and of quantitative approaches to the study of literature. Of
@@ -218,7 +220,13 @@ and post-structuralist critique. The chapter will progress with the development
 of the field from "literary and linguistic computing" to the broader variety of
 practices in the "digital humanities" as the field exists today.
 
-## Chapter 3: Computational Turn
+[^ln-roots]: I took the option of combining the Background and Relevance
+chapters as suggested in the Guide to Submitted a Proposal for *Literature and
+Contemporary Thought* series.
+
+## Part II: Theory and Practice
+
+### Chapter 3: Computational Turn
 
 The following three chapters follow the outline presented in the first. Each of
 these will contain a case study, illustrating the impact of digital
@@ -246,7 +254,7 @@ including statistical natural language processing [@manning_foundations_1999;
 a case study, most likely chosen from one of the pamphlets published by Franco
 Moretti's lab.
 
-## Chapter 4: Knowledge Design
+### Chapter 4: Knowledge Design
 
 Chapter four will deal with what I call "knowledge design": a sphere of
 scholarly activity that involves online critical edition making, archive
@@ -259,7 +267,7 @@ Knowledge design, as I will then argue, is fundamental not only to the *study*
 of literature, but also to the material structure of the literary encounter,
 which affects all higher modes of reading, writing, and interpretation: close
 and distant. The building of archives shapes the formation of shared cultural
-memory, for example, just as e-book design may alter the readers understaning
+memory, for example, just as e-book design may alter the readers understating
 of the text. All forms of contemporary textuality (including print) pass
 through some form of digital being, from typesetting tools to the building of
 user interfaces from online book stores to search engines and e-book readers.
@@ -271,20 +279,32 @@ The chapter will end with a case study from a prominent online archive of the
 sort: something along the lines of the *Perseus Digital Library*, Andrew
 Stauffer's *Book Traces* project, or Jerome McGann's *Rossetti Archive*.
 
-## Chapter 5: Institutional Transformation
+### Chapter 5: Institutional Transformation
 
-The rapidly changing dynamics of book publishing. The changing nature of
-scientific knowledge (reproducibility and access to findings). Transforming
-institutions of learning. Digital pedagogy. Transparency in governance. Global issues.
+This chapter will highlight the work of scholars like Daniel Cohen, Joseph
+Scheinfeldt, Alan Liu, Geoffrey Rockwell, Melissa Terras, Kathleen Fitzpatrick,
+Tara McPherson, and Jessica Marie Johnson whose work often carries with it a
+social and political dimension, aimed at transforming institutions of knowledge
+production, reception, and dissemination. After highlighting several prominent
+projects in that vein, I will ground this aspect of digital humanities in the
+dual movement between critical theory and critical making. I will further
+connect developments in this regard with broader social changes as exemplified
+by the open access, creative commons, and free culture movements.
 
-## Chapter 6: Laboratories of Literature
+## Part III: Field Reflections
 
+### Chapter 6: Literature Laboratories
+
+This chapter will contain a
 In this chapter, I will describe the challenges of running a laboratory in the
 humanities. Making good on the metaphor of the laboratory. Best practices. This
 section will describe day-to-day operation of Columbia's Group for Experimental
 Method in the Humanities. Three Labs.
 
-## Chapter 7: Criticism and Ways Forward
+### Chapter 7: Criticism and Ways Forward
+
+
+## Appendices
 
 ### Appendix I: Annotated Reading List
 
@@ -304,7 +324,7 @@ program in the field.
 
 # Format & Timing
 
-I write concisely and prefer short chapters between 5,000-8,000 words in
+I estimate chpaters of 10,000 words in
 length, giving the book the desired length between 60,000 and 80,000 words.
 Although no photographic illustrations are necessary, the book will have 6-12
 line drawings (figures and tables).
