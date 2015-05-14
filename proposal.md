@@ -2,6 +2,7 @@
 title: "Literature and the Digital Humanities (Book Proposal)"
 author: Dennis Tenen
 bibliography: plain-text.bib
+csl: chicago.csl
 
 ---
 
@@ -295,38 +296,72 @@ by the open access, creative commons, and free culture movements.
 
 ### Chapter 6: Literature Laboratories
 
-This chapter will contain a
-In this chapter, I will describe the challenges of running a laboratory in the
-humanities. Making good on the metaphor of the laboratory. Best practices. This
-section will describe day-to-day operation of Columbia's Group for Experimental
-Method in the Humanities. Three Labs.
+The goal of this chapter is to introduce the reader to everyday "laboratory
+life" as reflected by the activity of research groups whose work happens at the
+intersection of literary studies and the digital humanities. To write this
+chapter, I plan to interview (by email or in person) founders and primary
+investigators from several distinct "literary labs." To these ends I have began
+to make contacts Standford, University of Virginia, UCLA, Arizona State, MSU,
+University of Nebraska, McGill, and Chicago among other institutions. From each
+of these places I am soliciting responses to the following questions (to be
+further refined in consultation with an anthropologist):
+
+- What does it mean for you to run a "laboratory" in the humanities?
+- Describe your space.
+- How often do you meet?
+- What is your governance structure?
+- What roles do you assign to your participants?
+- How do you handle issues of labor and attribution?
+- How do you distribute your findings?
+- What is your research program?
+- What methodologies do you use?
+- How does your work connect to literary and cultural studies?
+- How do you handle training?
+- What other fields / department are involved?
+
+The chapter will conclude in a synthesis of the findings, in an attempt to
+articulate best practices in the field.
 
 ### Chapter 7: Criticism and Ways Forward
+
+This final chapter will contain an overview of several major lines of critique
+leveled against the digital humanities. These include:
+
+1. Literature is not data (DH as reductive positivism or compuationalism)
+[@fish_what_1979; @marche_literature_2012; @fish_digital_2012;
+@golumbia_cultural_2009];
+
+2. Mirroring the tech industry, the Digital Humanities privilege white,
+Anglo-Centric, male, commercialized modes of discourse [@mcpherson_why_2012;
+@fiormonte_towards_2012];
+
+3. The digital humanities have failed to 
 
 
 ## Appendices
 
-### Appendix I: Annotated Reading List
+#### Appendix I: Annotated Reading List
 
-As specified by the editors "the book should also include a list of annotated
-further reading suggestions so that it can be used as a springboard for further
-research or study."
+This appendix will contain an annotated list of seminal books, articles, and
+projects that can be used as a "springboard for further research or
+study" (as per the Series Guidelines).
 
-### Appendix II: Glossary of terms
+#### Appendix II: Glossary of Terms
 
-This section containing a glossary of key operational terms, as requested.
+This section will contain a glossary of key operational terms.
 
-### Appendix III: Becoming Digital
+#### Appendix III: Becoming Digital
 
-This appendix will contain a schematic for self-directed study in the
-humanities and a blueprint for a possible curriculum for a certificate-granting
-program in the field.
+This section will contain a schematic for self-directed study in the humanities
+and a blueprint for a possible curriculum for a certificate-granting program in
+the field.
 
 # Format & Timing
 
-I estimate chpaters of 10,000 words in
-length, giving the book the desired length between 60,000 and 80,000 words.
-Although no photographic illustrations are necessary, the book will have 6-12
-line drawings (figures and tables).
+I estimate chapters of 10,000 words in length, which in combination with the
+appendices will put the manuscript at roughly 80,000 words. The book will have
+6-12 line drawings (figures and tables). I plan on having a draft of the
+manuscript ready by January 1, 2016.
 
-I plan on having a draft of the manuscript ready by January 1, 2016.
+# Works Cited
+
