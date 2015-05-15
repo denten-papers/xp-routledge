@@ -1,5 +1,5 @@
 ---
-title: "Literature and the Digital Humanities (Book Proposal)"
+title: "Literature and the Digital Humanities (Book Proposal)" 
 author: Dennis Tenen
 bibliography: plain-text.bib
 csl: chicago.csl
@@ -10,8 +10,8 @@ csl: chicago.csl
 
 The purpose of this volume is to introduce academic readers, along with a
 broader audience, to the new and growing field of the Digital Humanities (DH),
-particularly as that field intersects with the research program in the study
-of literature. My approach to writing a volume of this sort aims to achieve two
+particularly as that field intersects with the research program in the study of
+literature. My approach to writing a volume of this sort aims to achieve two
 goals: *first*, descriptive, giving shape and intellectual history to the
 variety of scholarly practices that loosely identify as the Digital Humanities,
 and *second*, proscriptive, imagining a future for the field more inclusive and
@@ -19,8 +19,8 @@ more intelligible to concomitant developments in the life of the modern
 university.
 
 As universities across the country and globally invest in programs related to
-the digital humanities,[^ln-dh] a need arises for a programmatic vision of a field
-that can guide the formation of certificate programs, research labs, and
+the digital humanities,[^ln-dh] a need arises for a programmatic vision of a
+field that can guide the formation of certificate programs, research labs, and
 undergraduate curricula. I plan for the present volume to answer the demand for
 such a vision and to go further in creating a paradigmatic "introduction to the
 field," which can go on to serve as a foundational text in the study of
@@ -146,19 +146,15 @@ attention.
 
 [^ln-franco]: 224 pages. $29.95 paper, $24.95 ebook, $95 cloth.
 
-[^ln-hist]: Jack Dougherty and Kristen Nawrotzki. 322 pages. $29.95 ebook and
-paper, $80 cloth.
+[^ln-hist]: Jack Dougherty and Kristen Nawrotzki. 322 pages. $29.95 ebook and paper, $80 cloth.
 
 [^ln-critical]: Ed. Daniel Apollon et. al. 368 pages. $65 cloth. $30 ebook.
 
-[^ln-palgrave]: Ed. Douglas A. Boyd and Mary A. Larson. 256 pages. $90 cloth,
-$16.50 ebook, $25 paper.
+[^ln-palgrave]: Ed. Douglas A. Boyd and Mary A. Larson. 256 pages. $90 cloth, $16.50 ebook, $25 paper.
 
-[^ln-comp]: Ed. John M. Unsworth, Susan Schreibman, and Ray Siemens. 640 pages.
-$59.95 paper, $235.95 cloth.
+[^ln-comp]: Ed. John M. Unsworth, Susan Schreibman, and Ray Siemens. 640 pages.  $59.95 paper, $235.95 cloth.
 
-[^ln-understand]: Ed. David M. Berry. 336 pages. $30 paper, $16.50 ebook, $110
-cloth.
+[^ln-understand]: Ed. David M. Berry. 336 pages. $30 paper, $16.50 ebook, $110 cloth.
 
 [^ln-debates]: Ed. Matt Gold. 504 pages. $34.95 paper, $20.86 ebook, $99.75 cloth.
 
@@ -167,7 +163,6 @@ cloth.
 [^ln-up]: 176 pages. $22.95 paper or ebook, $70 cloth.
 
 [^ln-ramsay]: University of Illinois Press. 108 pages. $25 paper, $65 cloth.
-
 
 # Chapter Outline
 
@@ -191,9 +186,9 @@ I summarize the second broad category of activity under the rubric of
 "knowledge design." In this category we find long-standing scholarly practices
 of critical edition making, textual scholarship, and archive formation along
 with new concerns related to digitization, tagged corpora, and collaborative
-annotation, exemplified by projects like *NINES* (Nineteenth-century Scholarship
-Online, U.Virginia), the *Perseus Digital Library* (Ed. Gregory Crane, Tufts
-U.), and *HyperCities* (UCLA) among many others.
+annotation, exemplified by projects like *NINES* (Nineteenth-century
+Scholarship Online, U.Virginia), the *Perseus Digital Library* (Ed. Gregory
+Crane, Tufts U.), and *HyperCities* (UCLA) among many others.
 
 Finally, I identify the third type of activity as "institutional
 transformation." To this category we may ascribe work by Daniel Cohen and
@@ -221,9 +216,7 @@ and post-structuralist critique. The chapter will progress with the development
 of the field from "literary and linguistic computing" to the broader variety of
 practices in the "digital humanities" as the field exists today.
 
-[^ln-roots]: I took the option of combining the Background and Relevance
-chapters as suggested in the Guide to Submitted a Proposal for *Literature and
-Contemporary Thought* series.
+[^ln-roots]: I took the option of combining the Background and Relevance chapters as suggested in the Guide to Submitted a Proposal for *Literature and Contemporary Thought* series.
 
 ## Part II: Theory and Practice
 
@@ -324,27 +317,32 @@ articulate best practices in the field.
 
 ### Chapter 7: Criticism and Ways Forward
 
-This final chapter will contain an overview of several major lines of critique
-leveled against the digital humanities. These include:
+This final chapter will contain an overview of at least two major lines of
+criticism leveled against the digital humanities. These include:
 
 1. Literature is not data (DH as reductive positivism or compuationalism)
 [@fish_what_1979; @marche_literature_2012; @fish_digital_2012;
-@golumbia_cultural_2009];
+@golumbia_cultural_2009; @kirsch_technology_2014].
 
 2. Mirroring the tech industry, the Digital Humanities privilege white,
-Anglo-Centric, male, commercialized modes of discourse [@mcpherson_why_2012;
-@fiormonte_towards_2012];
+Anglo-Centric, male, or commercialized modes of a- or anti-theoretical
+discourse [@golumbia_cultural_2009; @mcpherson_why_2012;
+@fiormonte_towards_2012; @liu_where_2012].
 
-3. The digital humanities have failed to 
-
+The chapter and the book will end with a productive discussion about what can
+be done to mitigate some of these concerns, while connecting a robust sense of
+critical theory with critical practice. Critical practice, as I will argue,
+involves reclaiming the material bases of knowledge production. More than a set
+of methodologies, the digital humanities ultimately enlarge our notions of
+literature and textuality.
 
 ## Appendices
 
 #### Appendix I: Annotated Reading List
 
 This appendix will contain an annotated list of seminal books, articles, and
-projects that can be used as a "springboard for further research or
-study" (as per the Series Guidelines).
+projects that can be used as a "springboard for further research or study" (as
+per the Series Guidelines).
 
 #### Appendix II: Glossary of Terms
 
