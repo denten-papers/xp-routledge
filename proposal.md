@@ -14,7 +14,7 @@ particularly as that field intersects with the research program in the study of
 literature. My approach to writing a volume of this sort aims to achieve two
 goals: *first*, descriptive, giving shape and intellectual history to the
 variety of scholarly practices that loosely identify as the Digital Humanities,
-and *second*, proscriptive, imagining a future for the field more inclusive and
+and *second*, aspirational, imagining a future for the field more inclusive and
 more intelligible to concomitant developments in the life of the modern
 university.
 
@@ -97,23 +97,29 @@ particularly strong in this field and commonly assign English texts.
 
 There is a paucity of texts that occupy the niche targeted by the *Literature
 and Comparative Thought* series at the intersection of DH and literary studies.
+The existing books could be classified into two major clusters: one, geared
+towards a more general audience of the humanistic disciplines at large; and
+cluster, specific to individual constituent disciplines.
 
-The first, formative, generation of books about the Digital Humanities included
-edited collections, as was the case with the seminal *Companion to Digital
-Humanities* (Willey-Blackwell, 2004)[^ln-comp] and *Understanding Digital
-Humanities* (Palgrave Macmillan, 2012)[^ln-understand]; compendia of essays and
-blog posts, as was the case with *Debates in Digital Humanities* (Minnesota,
-2012)[^ln-debates]; co-authored volumes like *Digital_Humanities* (MIT, 2012)
-by Jeffrey Schnapp, Johanna Drucker, Anne Burdick, Peter Lunenfeld, and Todd
-Presner[^ln-dh2]; and, finally, as institutional set pieces written by
-prominent public intellectuals and administrators like the 2013 *Hacking the
-Academy: New Approaches to Scholarship and Teaching from Digital Humanities* by
-Dan Cohen and Joseph Scheinfeldt (Michigan UP).[^ln-up]
+The formative cluster of books about the Digital Humanities more generally
+includes:
 
-The current, "second generation," wave of DH is beginning to absorb the impact
-of the research program and administrative reform proposed by the first into
-its constituent fields. I hold that such specification is not only necessary,
-but also that it reaches a much wider audience. The application of the Digital
+- *Companion to Digital Humanities*, ed. John M. Unsworth, Susan Schreibman,
+  and Ray Siemens (Willey-Blackwell, 2004),[^ln-comp]
+- *Understanding Digital Humanities*, ed. David M. Berry (Palgrave Macmillan,
+  2012),[^ln-understand]
+- *Debates in Digital Humanities*, ed. Matt Gold (Minnesota, 2012),[^ln-debates]
+- *Digital_Humanities* (MIT, 2012) by Jeffrey Schnapp, Johanna Drucker, Anne
+  Burdick, Peter Lunenfeld, and Todd Presner, [^ln-dh2]
+- *The Emergence of the Digital Humanities* by Steven Jones (Routledge,
+  2013),[^ln-jones] and
+- *Hacking the Academy: New Approaches to Scholarship and Teaching from Digital
+  Humanities* by Dan Cohen and Joseph Scheinfeldt (Michigan UP, 2015).[^ln-up]
+
+The "second generation" wave of DH is beginning to absorb the impact of the
+research program and administrative reform proposed by the first into its
+constituent fields. I hold that such specification is not only necessary, but
+also that it reaches a much wider audience. The application of the Digital
 Humanities to specific questions in literary scholarship, as they manifest in
 pressing problems of collaborative authorship, digital storytelling, the
 quality of online deliberation, and in the politics of the archive and shared
@@ -123,14 +129,25 @@ Such questions are interesting to computer scientists and game designers alike.
 
 A small number of recent books have began to direct generalist DH approaches
 and methodologies to the questions and traditions governing their specific area
-of expertise. To these we may attribute *Writing History in the Digital Age
-(Michigan UP, 2013),^[ln-hist], *Digital Critical Editions* (U of Illinois,
-2014),[^ln-critical] and *Oral History and Digital Humanities: Voice, Access,
-and Engagement* (Palgrave, 2014).[^ln-palgrave] Some of the few major volumes
-in the nascent second generation pertinent to the study of literature include
-*Macroanalysis: Digital Methods and Literary History* by Matthew L. Jockers
-(Illinois, 2013),[^ln-macro] which itself builds on the influential *Distant
-Reading*, by Franco Moretti (Verso, 2013).[^ln-franco]
+of expertise. To these we may attribute:
+
+- *Writing History in the Digital Age* by Jack Dougherty and Kristen Nawrotzki
+  (Michigan UP, 2013),^[ln-hist]
+- *Digital Critical Editions*, ed. Daniel Apollon et. al. (U of Illinois,
+  2014),[^ln-critical] and
+- *Oral History and Digital Humanities: Voice, Access, and Engagement* Ed.
+  Douglas A. Boyd and Mary A. Larson (Palgrave, 2014).[^ln-palgrave]
+
+Some of the few major volumes in the nascent second generation pertinent to the
+study of literature include:
+
+- *Reading Machines: Toward an Algorithmic Criticism* by Stephen Ramsay (U.
+  Illinois Press, 2011),[^ln-ramsay]
+- *Macroanalysis: Digital Methods and Literary History* by Matthew L. Jockers
+  (Illinois, 2013),[^ln-macro] which itself builds on the influential *Distant
+Reading* by Franco Moretti (Verso, 2013),[^ln-franco] and
+- *Digital Literary Studies: Corpus Approaches to Poetry, Prose, and Drama* by
+  David Hoover et.al. (Routledge, 2014).[^ln-hoover]
 
 In *Literature and the Digital Humanities*, my approach builds on these volumes
 to connect the history of the discipline to the Digital Humanities research
@@ -146,23 +163,27 @@ attention.
 
 [^ln-franco]: 224 pages. $29.95 paper, $24.95 ebook, $95 cloth.
 
-[^ln-hist]: Jack Dougherty and Kristen Nawrotzki. 322 pages. $29.95 ebook and paper, $80 cloth.
+[^ln-hist]:  322 pages. $29.95 ebook and paper, $80 cloth.
 
-[^ln-critical]: Ed. Daniel Apollon et. al. 368 pages. $65 cloth. $30 ebook.
+[^ln-critical]: 368 pages. $65 cloth. $30 ebook.
 
-[^ln-palgrave]: Ed. Douglas A. Boyd and Mary A. Larson. 256 pages. $90 cloth, $16.50 ebook, $25 paper.
+[^ln-palgrave]: 256 pages. $90 cloth, $16.50 ebook, $25 paper.
 
-[^ln-comp]: Ed. John M. Unsworth, Susan Schreibman, and Ray Siemens. 640 pages.  $59.95 paper, $235.95 cloth.
+[^ln-comp]: 640 pages.  $59.95 paper, $235.95 cloth.
 
-[^ln-understand]: Ed. David M. Berry. 336 pages. $30 paper, $16.50 ebook, $110 cloth.
+[^ln-understand]: 336 pages. $30 paper, $16.50 ebook, $110 cloth.
 
-[^ln-debates]: Ed. Matt Gold. 504 pages. $34.95 paper, $20.86 ebook, $99.75 cloth.
+[^ln-debates]: 504 pages. $34.95 paper, $20.86 ebook, $99.75 cloth.
 
-[^ln-dh2]: 152 pages. $24.99 trade or ebook.
+[^ln-dh2]: 152 pages. $24.99 trade & ebook.
 
-[^ln-up]: 176 pages. $22.95 paper or ebook, $70 cloth.
+[^ln-up]: 176 pages. $22.95 paper & ebook, $70 cloth.
 
-[^ln-ramsay]: University of Illinois Press. 108 pages. $25 paper, $65 cloth.
+[^ln-ramsay]: 108 pages. $25 paper, $65 cloth.
+
+[^ln-hoover]: 216 pages. $135 cloth & ebook.
+
+[^ln-jones]: 224 pages. $39.95 cloth & ebook.
 
 # Chapter Outline
 
@@ -320,8 +341,8 @@ articulate best practices in the field.
 This final chapter will contain an overview of at least two major lines of
 criticism leveled against the digital humanities. These include:
 
-1. Literature is not data (DH as reductive positivism or compuationalism)
-[@fish_what_1979; @marche_literature_2012; @fish_digital_2012;
+1. Literature is not data (DH as reductive positivism, scientism,
+compuationalism) [@fish_what_1979; @marche_literature_2012; @fish_digital_2012;
 @golumbia_cultural_2009; @kirsch_technology_2014].
 
 2. Mirroring the tech industry, the Digital Humanities privilege white,
