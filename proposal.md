@@ -6,7 +6,7 @@ csl: chicago.csl
 
 ---
 
-# Statement of aims
+# Statement of Aims
 
 The purpose of this volume is to introduce academic readers, along with a
 broader audience, to the new and growing field of the Digital Humanities (DH),
@@ -22,11 +22,11 @@ As universities across the country and globally invest in programs related to
 the digital humanities,[^ln-dh] a need arises for a programmatic vision of a
 field that can guide the formation of certificate programs, research labs, and
 undergraduate curricula. I plan for the present volume to answer the demand for
-such a vision and to go further in creating a paradigmatic "introduction to the
+such a vision and to go further by creating a paradigmatic "introduction to the
 field," which can go on to serve as a foundational text in the study of
 literature inflected by the Digital Humanities. Beyond these goals, I join the
-editors of the Routledge *Literature and Contemporary Thought* series in the
-desire to create a mutually-enriching dialog between literary criticism,
+editors of the Routledge Literature and Contemporary Thought series in the
+desire to create a mutually enriching dialog between literary criticism,
 theory, and recent developments in the digital humanities and computational
 culture studies.
 
@@ -39,13 +39,13 @@ Foundation to advance digital humanities. Stanford has recently launched the
 Center for Spatial and Textual Analysis. University of Michigan opened six new
 tenure-track searches in a hiring cluster under the rubric of Public Humanities
 in a Digital World in 2012. In May of 2014, Bard College was Awarded $800,000
-from Andrew W. Mellon Foundation to support Experimental Humanities. The
+from the Andrew W. Mellon Foundation to support Experimental Humanities. The
 Claremont Colleges received $1,500,000 from the Andrew W. Mellon Foundation to
 develop the digital humanities.
 
-# Definition of the market
+# Definition of the Market
 
-The primary market for the *Literature and the Digital Humanities* includes:
+The primary market for *Literature and the Digital Humanities* includes:
 
 - advanced undergraduate courses in literary studies wishing to introduce their
   students to the field of digital humanities and computational culture
@@ -53,50 +53,50 @@ studies;
 
 - introductory level graduate courses for all doctorate and MA-level students
   entering the field of literary studies, covering DH as part of their "Intro
-to the Field," "Pro Seminar," or "MA seminar," as required in most language and
+to the Field," "Pro-seminar," or "MA seminar," as required in most language and
 literature programs globally and across the country;
 
 - the large share of self-directed graduate students whose institutions do not
   offer DH training;
 
-- faculty and staff (librarians, officers of scholarly publication) interested
+- faculty and staff (librarians, officers of scholarly publications) interested
   in expanding their research and activity in the field.
 
 A secondary market for the book includes students and scholars in engineering
 schools interested in finding productive intersections between literary studies
 and computer science.
 
-Several prominent institutions are beginning to offer degree- or certificate-
-granting programs in Digital Humanities. These include MA, PhD, and
-undergraduate programs at King's College London; MA and undergraduate programs
-at Loyola University, Chicago; the Digital Humanities Minor at UCLA; the DH
+Several prominent institutions are beginning to offer degree- or
+certificate-granting programs in Digital Humanities. These include
+undergraduate, MA, and PhD programs at King's College London, University
+College, London, and University College, Cork; undergraduate and MA programs at
+Loyola University, Chicago; the Digital Humanities Minor at UCLA; the DH
 undergraduate program at Michigan State University; the DH and Technology
 program at Brigham Young; the MA program in Humanities Computing at University
-of Alberta, Canada; the PhD, MA, and undergraduate programs at University
-College, London and University College, Cork; the MA program in DH at CUNY; the
-Digital Cultures and Creativity undergraduate program at University of
-Maryland; the MA in DH at Brandeis University; the MA in Digital Humanities at
-the University of Virginia; Media Technology and Games program at the IT
-University of Copenhagen; MA and PhD in Digital Humanities at Maynooth
-University, Ireland; the Digital Media and Cultural Theory undergraduate
-program at Hampshire College; the Certificate program in DH at University of
-North Carolina at Chapel Hill; the Arts, Media + Engineering undergraduate
-program at Arizona State; the Bachelor of Science in Digital Humanities at the
-Illinois Institute of Technology and many others along with undergraduate
-minors and non-degree granting research centers that offer courses too numerous
-to mention here.
+of Alberta, Canada; the MA program in DH at CUNY; the Digital Cultures and
+Creativity undergraduate program at University of Maryland; the MA in DH at
+Brandeis University; the MA in Digital Humanities at the University of
+Virginia; Media Technology and Games program at the IT University of
+Copenhagen; MA and PhD in Digital Humanities at Maynooth University, Ireland;
+the Digital Media and Cultural Theory undergraduate program at Hampshire
+College, Amherst; the Certificate program in DH at University of North Carolina
+at Chapel Hill; the Arts, Media + Engineering undergraduate program at Arizona
+State; the Bachelor of Science in Digital Humanities at the Illinois Institute
+of Technology, and many others, along with undergraduate minors and
+non-degree-granting research centers that offer courses too numerous to mention
+here.
 
-Although I have concentrated my summary of potential markets to universities in
+Although I have concentrated my summary of potential markets on universities in
 English-speaking countries (primarily Canada, the Republic of Ireland, the
-United Kingdom, and the United States), there are significant markets for
-English-language work in DH globally. Institutions in Sweden, Germany,
-Australia, New Zealand, Israel, and Denmark, among other places are
-particularly strong in this field and commonly assign English texts.
+United Kingdom, Australia, New Zealand, and the United States), there are
+significant markets for English-language work in DH globally. Institutions in
+Sweden, Germany, Israel, and Denmark, among other places, are particularly
+strong in this field and commonly assign English texts.
 
-# Review of the main competitive books
+# Review of the Main Competitive Books
 
-There is a paucity of texts that occupy the niche targeted by the *Literature
-and Comparative Thought* series at the intersection of DH and literary studies.
+There is a paucity of texts that occupy the niche targeted by the Literature
+and Contemporary Thought series at the intersection of DH and literary studies.
 The existing books could be classified into two major clusters: one, geared
 towards a more general audience of the humanistic disciplines at large; and
 cluster, specific to individual constituent disciplines.
@@ -123,13 +123,13 @@ also that it reaches a much wider audience. The application of the Digital
 Humanities to specific questions in literary scholarship, as they manifest in
 pressing problems of collaborative authorship, digital storytelling, the
 quality of online deliberation, and in the politics of the archive and shared
-memory formation (to name just a few), begin to gain a measure of specificity
+memory formation (to name just a few), is beginning to gain a measure of specificity
 that points to concrete ways of collaboration between diverse practitioners.
 Such questions are interesting to computer scientists and game designers alike.
 
-A small number of recent books have began to direct generalist DH approaches
+A small number of recent books have begun to direct generalist DH approaches
 and methodologies to the questions and traditions governing their specific area
-of expertise. To these we may attribute:
+of expertise. To this category we may attribute:
 
 - *Writing History in the Digital Age* by Jack Dougherty and Kristen Nawrotzki
   (Michigan UP, 2013),^[ln-hist]
@@ -159,31 +159,31 @@ failures. I want my reader to leave the book with a sense of possibility:
 perceiving rich and yet unexplored areas of scholarship needing our urgent
 attention.
 
-[^ln-macro]: 208 pages. $30 paper and ebook, $90 cloth.
+[^ln-macro]: 208 pages. $90 cloth, $30 paper and e-book.
 
-[^ln-franco]: 224 pages. $29.95 paper, $24.95 ebook, $95 cloth.
+[^ln-franco]: 224 pages. $95 cloth, $29.95 paper, $24.95 e-book.
 
-[^ln-hist]:  322 pages. $29.95 ebook and paper, $80 cloth.
+[^ln-hist]: 322 pages. $80 cloth, $29.95 paper and e-book.
 
-[^ln-critical]: 368 pages. $65 cloth. $30 ebook.
+[^ln-critical]: 368 pages. $65 cloth, $30 e-book.
 
-[^ln-palgrave]: 256 pages. $90 cloth, $16.50 ebook, $25 paper.
+[^ln-palgrave]: 256 pages. $90 cloth, $25 paper, $16.50 e-book.
 
-[^ln-comp]: 640 pages.  $59.95 paper, $235.95 cloth.
+[^ln-comp]: 640 pages. $235.95 cloth, $59.95 paper.
 
-[^ln-understand]: 336 pages. $30 paper, $16.50 ebook, $110 cloth.
+[^ln-understand]: 336 pages. $110 cloth, $30 paper, $16.50 e-book.
 
-[^ln-debates]: 504 pages. $34.95 paper, $20.86 ebook, $99.75 cloth.
+[^ln-debates]: 504 pages. $99.75 cloth, $34.95 paper, $20.86 e-book.
 
-[^ln-dh2]: 152 pages. $24.99 trade & ebook.
+[^ln-dh2]: 152 pages. $24.99 trade and e-book.
 
-[^ln-up]: 176 pages. $22.95 paper & ebook, $70 cloth.
+[^ln-up]: 176 pages. $70 cloth, $22.95 paper and e-book.
 
-[^ln-ramsay]: 108 pages. $25 paper, $65 cloth.
+[^ln-ramsay]: 108 pages. $65 cloth, $25 paper.
 
-[^ln-hoover]: 216 pages. $135 cloth & ebook.
+[^ln-hoover]: 216 pages. $135 cloth and e-book.
 
-[^ln-jones]: 224 pages. $39.95 cloth & ebook.
+[^ln-jones]: 224 pages. $39.95 cloth and e-book.
 
 # Chapter Outline
 
@@ -197,19 +197,19 @@ a broad summary of the field, I organize the variety of existing practices into
 three main categories. The *first* deals with computational approaches to the
 study of literature and culture. Like the computational turn affecting many
 other disciplines, advancements in natural language processing techniques and
-the wide-spread availability of computational power have made it possible for
+the widespread availability of computational power have made it possible for
 scholars to ask qualitatively new questions, at scales of analysis which
 include reading at distance (macroanalysis) and textual forensics
-(microanalysis, of the kind advocated by Matthew Kirschenbaum in his
+(microanalysis of the kind advocated by Matthew Kirschenbaum in his
 *Mechanisms: New Media and the Forensic Imagination*, 2008).
 
-I summarize the second broad category of activity under the rubric of
+I summarize the *second* broad category of activity under the rubric of
 "knowledge design." In this category we find long-standing scholarly practices
-of critical edition making, textual scholarship, and archive formation along
+of critical edition-making, textual scholarship, and archive formation, along
 with new concerns related to digitization, tagged corpora, and collaborative
 annotation, exemplified by projects like *NINES* (Nineteenth-century
-Scholarship Online, U.Virginia), the *Perseus Digital Library* (Ed. Gregory
-Crane, Tufts U.), and *HyperCities* (UCLA) among many others.
+Scholarship Online, U. Virginia), the *Perseus Digital Library* (Ed. Gregory
+Crane, Tufts U.), and *HyperCities* (UCLA), among many others.
 
 Finally, I identify the third type of activity as "institutional
 transformation." To this category we may ascribe work by Daniel Cohen and
@@ -375,11 +375,11 @@ This section will contain a schematic for self-directed study in the humanities
 and a blueprint for a possible curriculum for a certificate-granting program in
 the field.
 
-# Format & Timing
+# Format and Timing
 
 I estimate chapters of 10,000 words in length, which in combination with the
 appendices will put the manuscript at roughly 80,000 words. The book will have
-6-12 line drawings (figures and tables). I plan on having a draft of the
+6--12 line drawings (figures and tables). I plan on having a draft of the
 manuscript ready by January 1, 2016.
 
 # Works Cited
