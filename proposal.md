@@ -194,7 +194,7 @@ attention.
 The first chapter will pose and begin answering the question shaping the rest
 of the book: What are the digital humanities? and Why do they matter? In making
 a broad summary of the field, I organize the variety of existing practices into
-three main categories. The *first* deals with computational approaches to the
+three main categories. The first deals with computational approaches to the
 study of literature and culture. Like the computational turn affecting many
 other disciplines, advancements in natural language processing techniques and
 the widespread availability of computational power have made it possible for
@@ -203,7 +203,7 @@ include reading at distance (macroanalysis) and textual forensics
 (microanalysis of the kind advocated by Matthew Kirschenbaum in his
 *Mechanisms: New Media and the Forensic Imagination*, 2008).
 
-I summarize the *second* broad category of activity under the rubric of
+I summarize the second broad category of activity under the rubric of
 "knowledge design." In this category we find long-standing scholarly practices
 of critical edition-making, textual scholarship, and archive formation, along
 with new concerns related to digitization, tagged corpora, and collaborative
@@ -213,23 +213,23 @@ Crane, Tufts U.), and *HyperCities* (UCLA), among many others.
 
 Finally, I identify the third type of activity as "institutional
 transformation." To this category we may ascribe work by Daniel Cohen and
-Joseph Scheinfeldt (*Hacking the Academy*, 2015); *4Humanities* site curated by
-Alan Liu, Geoffrey Rockwell and Melissa Terras; and the *Media Commons* site
-edited by Kathleen Fitzpatrick (also the author of *Planned Obsolescence*,
-2011); along with many others too numerous to mention here. These books and
-projects have a common concern with the future of the academy, books, reading,
-writing, and libraries. Paralleling developments in open access, creative
-commons, and free culture, practitioners in this space aim to reform
-contemporary institutions of knowledge production and often include critical
-interventions that redress imbalances of access and participation along the
-lines of gender, race, and geography. This categories capture the diversity of
-practices in the field and help structure Part II of the book.
+Joseph Scheinfeldt (*Hacking the Academy*, 2015); the *4Humanities* site
+curated by Alan Liu, Geoffrey Rockwell, and Melissa Terras; and the *Media
+Commons* site edited by Kathleen Fitzpatrick (also the author of *Planned
+Obsolescence*, 2011); along with many others too numerous to mention here.
+These books and projects share a common concern with the future of the academy,
+books, reading, writing, and libraries. Paralleling developments in open
+access, creative commons, and free culture, practitioners in this space aim to
+reform contemporary institutions of knowledge production and often include
+critical interventions that redress imbalances of access and participation
+along the lines of gender, race, and geography. These categories capture the
+diversity of practices in the field and help to structure Part II of the book.
 
 ### Chapter 2: Intellectual Roots[^ln-roots]
 
 This chapter will offer an introduction to the long-history of the digital
 humanities and of quantitative approaches to the study of literature. Of
-particular importance in this chapter is to counteract the common "shallow"
+particular importance in this chapter is counteracting the common "shallow"
 vision of the field, which sees its roots in "humanities computing" pioneered
 by Father Roberto Busa in the 1940s. Instead the emphasis will be on the
 influence of formalism on literary studies, its relationship to structuralism,
@@ -237,7 +237,8 @@ and post-structuralist critique. The chapter will progress with the development
 of the field from "literary and linguistic computing" to the broader variety of
 practices in the "digital humanities" as the field exists today.
 
-[^ln-roots]: I took the option of combining the Background and Relevance chapters as suggested in the Guide to Submitted a Proposal for *Literature and Contemporary Thought* series.
+[^ln-roots]: I took the option of combining the Background and Relevance
+chapters (as suggested in the "Routledge Guide to Submitting a Proposal").
 
 ## Part II: Theory and Practice
 
@@ -248,63 +249,64 @@ these will contain a case study, illustrating the impact of digital
 humanities-inflected work on a specific problem or paradigm in traditional
 literary scholarship.
 
-Chapter three deals with the first of the three broad rubrics: computational
-turn, knowledge design, and institutional transformation. I begin by
-contextualizing the turn towards "distant reading" and computation in literary
-studies within the larger "computational turn," affecting disciplines across
-the university. The various approaches to distant reading include macroanalysis
-in literary studies [@jockers_macroanalysis_2013; @moretti_distant_2013;
-@ramsay_reading_2011], culturomics in economy [@aiden_uncharted_2014],
-e-discovery in law [@scheindlin_electronic_2004; @scheindlin_scheindlin_2009],
-automatic essay evaluation in education [@shermis_handbook_2013], and medical
+Chapter 3 deals with the first of the three broad rubrics: computational turn,
+knowledge design, and institutional transformation. I begin by contextualizing
+the turn towards "distant reading" and computation in literary studies within
+the larger "computational turn," affecting disciplines across the university.
+The various approaches to distant reading include macroanalysis in literary
+studies [@ramsay_reading_2011; @jockers_macroanalysis_2013;
+@moretti_distant_2013]; culturomics in social science [@aiden_uncharted_2014];
+e-discovery in law [@scheindlin_electronic_2004; @scheindlin_scheindlin_2009];
+automatic essay evaluation in education [@shermis_handbook_2013]; and medical
 informatics in medicine [@shortliffe_biomedical_2013], among others.
 
-I will then summarize the variety methodologies common to these approaches,
+I will then summarize the variety of methodologies common to these approaches,
 including statistical natural language processing [@manning_foundations_1999;
-@jurafsky_speech_2008], automatic summarization [@radev_centroid-based_2004;
-@nenkova_pyramid_2007], machine learning [@rasmussen_gaussian_2006;
-@flach_machine_2012], network analysis [@opsahl_node_2010;
-@szell_measuring_2010; @takhteyev_geography_2012], and topic modeling
+@jurafsky_speech_2008]; automatic summarization [@radev_centroid-based_2004;
+@nenkova_pyramid_2007]; machine learning [@rasmussen_gaussian_2006;
+@flach_machine_2012]; network analysis [@opsahl_node_2010;
+@szell_measuring_2010; @takhteyev_geography_2012]; and topic modeling
 [@wallach_topic_2006; @blei_probabilistic_2012]. The chapter will conclude with
 a case study, most likely chosen from one of the pamphlets published by Franco
 Moretti's lab.
 
 ### Chapter 4: Knowledge Design
 
-Chapter four will deal with what I call "knowledge design": a sphere of
-scholarly activity that involves online critical edition making, archive
+Chapter 4 will deal with what I call "knowledge design": a sphere of
+scholarly activity that involves online critical edition-making, archive
 formation, digitization, creation of tagged corpora, collaborative annotation,
 and textual interface design. As with the previous chapter, my aim here is to
 show the continuity of these practices with long-standing concerns in literary
-studies like textual criticism, print making, and book design.
+studies like textual criticism, print-making, and book design.
 
 Knowledge design, as I will then argue, is fundamental not only to the *study*
 of literature, but also to the material structure of the literary encounter,
 which affects all higher modes of reading, writing, and interpretation: close
 and distant. The building of archives shapes the formation of shared cultural
-memory, for example, just as e-book design may alter the readers understating
+memory, for example, just as e-book design may alter the reader's understanding
 of the text. All forms of contemporary textuality (including print) pass
-through some form of digital being, from typesetting tools to the building of
-user interfaces from online book stores to search engines and e-book readers.
-It is vital therefore that literary scholars do not leave these fundamentally
-literary, textual concerns to technologists without deep humanistic training,
-sensitive to history and cultural context.
+through some form of digital being: from word processors to typesetting tools,
+online book stores, search engines, and to e-book readers. It is vital
+therefore that literary scholars do not leave these fundamentally literary,
+textual concerns to technologists who lack deep humanistic training, sensitive
+to history and cultural context.
 
-The chapter will end with a case study from a prominent online archive of the
-sort: something along the lines of the *Perseus Digital Library*, Andrew
-Stauffer's *Book Traces* project, or Jerome McGann's *Rossetti Archive*.
+The chapter will end with a case study from a prominent online archive that has
+changed the reception of its materials in a significant way: something along
+the lines of the *Perseus Digital Library*, Andrew Stauffer's *Book Traces*
+project, or Jerome McGann's *Rossetti Archive*.
 
 ### Chapter 5: Institutional Transformation
 
 This chapter will highlight the work of scholars like Daniel Cohen, Joseph
 Scheinfeldt, Alan Liu, Geoffrey Rockwell, Melissa Terras, Kathleen Fitzpatrick,
-Tara McPherson, and Jessica Marie Johnson whose work often carries with it a
-social and political dimension, aimed at transforming institutions of knowledge
-production, reception, and dissemination. After highlighting several prominent
-projects in that vein, I will ground this aspect of digital humanities in the
-dual movement between critical theory and critical making. I will further
-connect developments in this regard with broader social changes as exemplified
-by the open access, creative commons, and free culture movements.
+Tara McPherson, and Jessica Marie Johnson--scholars whose work often carries
+with it a social and political dimension, aimed at transforming institutions of
+knowledge production, reception, and dissemination. After highlighting several
+prominent projects in that vein, I will ground this aspect of digital
+humanities in the dual movement between critical theory and critical making. I
+will further connect developments in this regard with broader social changes as
+exemplified by the open access, creative commons, and free culture movements.
 
 ## Part III: Field Reflections
 
@@ -314,8 +316,8 @@ The goal of this chapter is to introduce the reader to everyday "laboratory
 life" as reflected by the activity of research groups whose work happens at the
 intersection of literary studies and the digital humanities. To write this
 chapter, I plan to interview (by email or in person) founders and primary
-investigators from several distinct "literary labs." To these ends I have began
-to make contacts Standford, University of Virginia, UCLA, Arizona State, MSU,
+investigators from several distinct "literary labs." To these ends I have begun
+to make contacts at Stanford, University of Virginia, UCLA, Arizona State, MSU,
 University of Nebraska, McGill, and Chicago among other institutions. From each
 of these places I am soliciting responses to the following questions (to be
 further refined in consultation with an anthropologist):
@@ -331,9 +333,9 @@ further refined in consultation with an anthropologist):
 - What methodologies do you use?
 - How does your work connect to literary and cultural studies?
 - How do you handle training?
-- What other fields / department are involved?
+- What other fields / departments are involved?
 
-The chapter will conclude in a synthesis of the findings, in an attempt to
+The chapter will conclude with a synthesis of the findings, in an attempt to
 articulate best practices in the field.
 
 ### Chapter 7: Criticism and Ways Forward
@@ -342,13 +344,13 @@ This final chapter will contain an overview of at least two major lines of
 criticism leveled against the digital humanities. These include:
 
 1. Literature is not data (DH as reductive positivism, scientism,
-compuationalism) [@fish_what_1979; @marche_literature_2012; @fish_digital_2012;
-@golumbia_cultural_2009; @kirsch_technology_2014].
+compuationalism) [@fish_what_1979; @golumbia_cultural_2009; @fish_digital_2012;
+@marche_literature_2012; @kirsch_technology_2014].
 
 2. Mirroring the tech industry, the Digital Humanities privilege white,
-Anglo-Centric, male, or commercialized modes of a- or anti-theoretical
-discourse [@golumbia_cultural_2009; @mcpherson_why_2012;
-@fiormonte_towards_2012; @liu_where_2012].
+Anglo-centric, male, or commercialized modes of a- or anti-theoretical
+discourse [@golumbia_cultural_2009; @fiormonte_towards_2012; @liu_where_2012;
+@mcpherson_why_2012].
 
 The chapter and the book will end with a productive discussion about what can
 be done to mitigate some of these concerns, while connecting a robust sense of
