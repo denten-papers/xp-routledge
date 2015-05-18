@@ -9,7 +9,7 @@ csl: chicago.csl
 # Statement of Aims
 
 The purpose of this volume is to introduce academic readers, along with a
-broader audience, to the growing field of the digital Humanities (DH),
+broader audience, to the growing field of the Digital Humanities (DH),
 particularly as that field intersects with the research program in the study of
 literature. My approach to writing a volume of this sort aims to achieve two
 goals: *first*, descriptive, giving shape and intellectual history to the
@@ -32,7 +32,7 @@ developments in the digital humanities and computational culture studies.
 [^ln-dh]: For example: In February 2015, U. Penn received $7,000,000 from Penn
 Arts and Sciences Overseer to establish the Price Lab for the Digital
 Humanities. In December 2014, Yale announced an award in the amount of
-$3,000,000 from The Goizueta Foundation to inaugurate the digital humanities
+$3,000,000 from The Goizueta Foundation to inaugurate the Digital Humanities
 Laboratory. UC Berkeley announced $2,000,000 from the Andrew W. Mellon
 Foundation to advance digital humanities. Stanford has recently launched the
 Center for Spatial and Textual Analysis. University of Michigan opened six new
@@ -104,25 +104,30 @@ The formative cluster of books about the Digital Humanities more generally
 includes:
 
 - *Companion to Digital Humanities*, ed. John M. Unsworth, Susan Schreibman,
-  and Ray Siemens (Willey-Blackwell, 2004),[^ln-comp]
-- *Understanding Digital Humanities*, ed. David M. Berry (Palgrave Macmillan,
-  2012),[^ln-understand]
-- *Debates in Digital Humanities*, ed. Matt Gold (Minnesota, 2012),[^ln-debates]
+  and Ray Siemens (Blackwell, 2004),[^ln-comp] - *Understanding Digital
+Humanities*, ed. David M. Berry (Palgrave Macmillan, 2012),[^ln-understand] 
+
+- *Debates in the Digital Humanities*, ed. Matthew K. Gold (Minnesota,
+  2012),[^ln-debates]
+
 - *Digital_Humanities* (MIT, 2012) by Jeffrey Schnapp, Johanna Drucker, Anne
   Burdick, Peter Lunenfeld, and Todd Presner, [^ln-dh2]
-- *The Emergence of the Digital Humanities* by Steven Jones (Routledge,
-  2013),[^ln-jones] and
-- *Hacking the Academy: New Approaches to Scholarship and Teaching from Digital
-  Humanities* by Dan Cohen and Joseph Scheinfeldt (Michigan UP, 2015).[^ln-up]
 
-The "second generation" of DH is beginning to absorb the impact of the
-research program and administrative reform proposed by the first into its
-constituent fields. I hold that such specification is not only necessary, but
-also that it reaches a much wider audience. The application of the Digital
-Humanities to specific questions in literary scholarship, as they manifest in
-pressing problems of collaborative authorship, digital storytelling, the
-quality of online deliberation, and in the politics of the archive and shared
-memory formation (to name just a few), is beginning to gain a measure of specificity
+- *The Emergence of the Digital Humanities* by Steven E. Jones (Routledge,
+  2013),[^ln-jones] and
+
+- *Hacking the Academy: New Approaches to Scholarship and Teaching from Digital
+  Humanities* ed. Daniel J. Cohen and Joseph Scheinfeldt (Michigan UP,
+2013).[^ln-up]
+
+The "second generation" of DH is beginning to absorb the impact of the research
+program and administrative reform proposed by the first into its constituent
+fields. I hold that such specification is not only necessary, but also that it
+reaches a much wider audience. The application of the Digital Humanities to
+specific questions in literary scholarship, as they manifest in pressing
+problems of collaborative authorship, digital storytelling, the quality of
+online deliberation, and in the politics of the archive and shared memory
+formation (to name just a few), is beginning to gain a measure of specificity
 that points to concrete ways of collaboration between diverse practitioners.
 Such questions are interesting to computer scientists and game designers alike.
 
@@ -130,23 +135,27 @@ A small number of recent books have begun to direct generalist DH approaches
 and methodologies to the questions and traditions governing their specific area
 of expertise. To this category we may attribute:
 
-- *Writing History in the Digital Age* by Jack Dougherty and Kristen Nawrotzki
+- *Writing History in the Digital Age* ed. Jack Dougherty and Kristen Nawrotzki
   (Michigan UP, 2013),[^ln-hist]
-- *Digital Critical Editions*, ed. Daniel Apollon et. al. (U of Illinois,
+
+- *Digital Critical Editions*, ed. Daniel Apollon et al. (U of Illinois,
   2014),[^ln-critical] and
-- *Oral History and Digital Humanities: Voice, Access, and Engagement* Ed.
-  Douglas A. Boyd and Mary A. Larson (Palgrave, 2014).[^ln-palgrave]
+
+- *Oral History and Digital Humanities: Voice, Access, and Engagement*, ed.
+  Douglas A. Boyd and Mary A. Larson (Palgrave Macmillan, 2014).[^ln-palgrave]
 
 Some of the few major volumes in the nascent second generation pertinent to the
 study of literature include:
 
 - *Reading Machines: Toward an Algorithmic Criticism* by Stephen Ramsay (U.
   Illinois Press, 2011),[^ln-ramsay]
+
 - *Macroanalysis: Digital Methods and Literary History* by Matthew L. Jockers
   (Illinois, 2013),[^ln-macro] which itself builds on the influential *Distant
 Reading* by Franco Moretti (Verso, 2013),[^ln-franco] and
+
 - *Digital Literary Studies: Corpus Approaches to Poetry, Prose, and Drama* by
-  David Hoover et.al. (Routledge, 2014).[^ln-hoover]
+  David L. Hoover et al. (Routledge, 2014).[^ln-hoover]
 
 In *Literature and the Digital Humanities*, my approach builds on these volumes
 to connect the history of the discipline to the digital humanities research
@@ -190,9 +199,9 @@ attention.
 
 ### Chapter 1: Literature and the Digital Humanities Now
 
-The first chapter will pose and begin answering the question shaping the rest
-of the book: What are the digital humanities? and Why do they matter? In making
-a broad summary of the field, I organize the variety of existing practices into
+The first chapter will pose and begin answering questions that the rest of the
+book: What are the digital humanities? and Why do they matter? In making a
+broad summary of the field, I organize the variety of existing practices into
 three main categories. The first deals with computational approaches to the
 study of literature and culture. Like the computational turn affecting many
 other disciplines, advancements in natural language processing techniques and
@@ -200,28 +209,30 @@ the widespread availability of computational power have made it possible for
 scholars to ask qualitatively new questions, at scales of analysis which
 include reading at distance (macroanalysis) and textual forensics
 (microanalysis of the kind advocated by Matthew Kirschenbaum in his
-*Mechanisms: New Media and the Forensic Imagination*, 2008).
+*Mechanisms: New Media and the Forensic Imagination*, 2012).
 
 I summarize the second broad category of activity under the rubric of
 "knowledge design." In this category we find long-standing scholarly practices
 of critical edition-making, textual scholarship, and archive formation, along
-with emerging concerns related to digitization, tagged corpora, and collaborative
-annotation, exemplified by projects like *NINES* (Nineteenth-century
-Scholarship Online, U. Virginia), the *Perseus Digital Library* (Ed. Gregory
-Crane, Tufts U.), and *HyperCities* (UCLA), among many others.
+with emerging concerns related to digitization, tagged corpora, and
+collaborative annotation, exemplified by projects like *NINES*
+(Nineteenth-century Scholarship Online, U. Virginia), the *Perseus Digital
+Library* (ed. Gregory Crane, Tufts U.), and *HyperCities* (UCLA), among many
+others.
 
 Finally, I identify the third type of activity as "institutional
-transformation." To this category we may ascribe work by Daniel Cohen and
-Joseph Scheinfeldt (*Hacking the Academy*, 2015); the *4Humanities* site
-curated by Alan Liu, Geoffrey Rockwell, and Melissa Terras; and the *Media
-Commons* site edited by Kathleen Fitzpatrick (also the author of *Planned
-Obsolescence*, 2011); along with many other projects too numerous to mention
-here. These books and projects share a common concern with the future of the
-academy, books, reading, writing, and libraries. Paralleling developments in
-open access, creative commons, and free culture, practitioners in this subfield
-aim to reform contemporary institutions of knowledge production. This activity
-often includes critical intervention that aims to redress imbalances of access
-and participation along the lines of gender, race, and geography.
+transformation." To this category we may ascribe work by Daniel J. Cohen and
+Joseph Scheinfeldt (*Hacking the Academy*, 2013); the *4Humanities* site
+curated by Alan Liu, Geoffrey Rockwell, and Melissa Terras et al.; and the
+*Media Commons* site edited by Kathleen Fitzpatrick (also the author of
+*Planned Obsolescence*, 2011); along with many other projects too numerous to
+mention here. These books and projects share a common concern with the future
+of the academy, books, reading, writing, and libraries. Paralleling
+developments in open access, creative commons, and free culture, practitioners
+in this subfield aim to reform contemporary institutions of knowledge
+production. This activity often includes critical intervention that aims to
+redress imbalances of access and participation along the lines of gender, race,
+and geography.
 
 The above three categories capture the diversity of practices in the field and
 help to structure Part II of the book.
@@ -306,7 +317,7 @@ project, or Jerome McGann's *Rossetti Archive*.
 
 This chapter will feature the work of scholars like Daniel Cohen, Joseph
 Scheinfeldt, Alan Liu, Geoffrey Rockwell, Melissa Terras, Kathleen Fitzpatrick,
-Tara McPherson, and Jessica Marie Johnson--scholars whose work often carries
+Tara McPherson, and Jessica Marie Johnson---scholars whose work often carries
 with it a social and political dimension, aimed at transforming institutions of
 knowledge production, reception, and dissemination. After highlighting several
 prominent projects in that vein, I will ground this aspect of digital
@@ -327,7 +338,7 @@ investigators from several distinct "literary labs." To these ends I have begun
 making contacts at Stanford, University of Virginia, UCLA, Arizona State, MSU,
 University of Nebraska, McGill, and Chicago among other institutions. From each
 of these places I am soliciting responses to the following questions (to be
-further refined in consultation with anthropologist):
+further refined in consultation with an anthropologist):
 
 - What does it mean for you to run a "laboratory" in the humanities?
 - Describe your space.
@@ -342,9 +353,10 @@ further refined in consultation with anthropologist):
 - How do you address training?
 - What other fields / departments are involved?
 
-Given her interest in DH field work, it is likely that Tanya Clement will join
-this chapter as a coauthor. The chapter will conclude with a synthesis of the
-findings, in an attempt to articulate best practices in the field.
+Given her interest in DH field work, it is likely that Tanya Clement (Assistant
+Professor in the School of Information at the University of Texas, Austin) will
+join this chapter as a coauthor. The chapter will conclude with a synthesis of
+the findings, in an attempt to articulate best practices in the field.
 
 ### Chapter 7: Criticism and Ways Forward
 
@@ -353,11 +365,11 @@ several major avenues of critique commonly leveled against the digital
 humanities. These include:
 
 1. Literature is not data. DH methodologies amount to reductive positivism,
-scientism, and compuationalism [@fish_what_1979; @golumbia_cultural_2009;
+   scientism, and computationalism [@fish_what_1979; @golumbia_cultural_2009;
 @fish_digital_2012; @marche_literature_2012; @kirsch_technology_2014].
 
 2. Mirroring the tech industry, the digital humanities privilege white,
-Anglo-centric, male, or commercialized modes of a- or anti-theoretical
+   Anglo-centric, male, or commercialized modes of a- or anti-theoretical
 discourse [@golumbia_cultural_2009; @fiormonte_towards_2012; @liu_where_2012;
 @mcpherson_why_2012].
 
