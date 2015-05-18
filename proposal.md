@@ -1,5 +1,6 @@
 ---
-title: "Literature and the Digital Humanities (Book Proposal)" 
+title: "Literature and the Digital Humanities"
+subtitle: "(Book Proposal)"
 author: Dennis Tenen
 bibliography: plain-text.bib
 csl: chicago.csl
@@ -120,6 +121,12 @@ Humanities*, ed. David M. Berry (Palgrave Macmillan, 2012),[^ln-understand]
   Humanities* ed. Daniel J. Cohen and Joseph Scheinfeldt (Michigan UP,
 2013).[^ln-up]
 
+- *Defining Digital Humanities: A Reader* ed. Melissa Terras, Julianne
+Nyhan, and Edward Vanhoutte (Ashgate, 2013).[^ln-terras]
+
+- *Advancing Digital Humanities: Research, Methods, Theories* ed. by Katherine
+Bode and Paul Longley Arthur (Palgrave Macmillan, 2014).[^ln-advance]
+
 The "second generation" of DH is beginning to absorb the impact of the research
 program and administrative reform proposed by the first into its constituent
 fields. I hold that such specification is not only necessary, but also that it
@@ -192,6 +199,10 @@ attention.
 [^ln-hoover]: 216 pages. $135 cloth and e-book.
 
 [^ln-jones]: 224 pages. $39.95 cloth and e-book.
+
+[^ln-advance]: 352 pages. $105 cloth, $30 paper and e-book.
+
+[^ln-terras]: 314 pages. $120 cloth, £25 paper and e-book.
 
 # Chapter Outline
 
@@ -267,8 +278,8 @@ the turn towards "distant reading" and computation in literary studies within
 the larger "computational turn," affecting disciplines across the university.
 The various approaches to distant reading include macroanalysis in literary
 studies [@ramsay_reading_2011; @jockers_macroanalysis_2013;
-@moretti_distant_2013]; culturomics in social science [@aiden_uncharted_2014];
-e-discovery in law [@scheindlin_electronic_2004; @scheindlin_scheindlin_2009];
+@moretti_distant_2013]; culturomics in social science [@aiden_uncharted:_2014];
+e-discovery in law [@scheindlin_electronic_2004; @scheindlin_electronic_2009];
 automatic essay evaluation in education [@shermis_handbook_2013]; and medical
 informatics in medicine [@shortliffe_biomedical_2013], among others.
 
@@ -291,10 +302,10 @@ pamphlets published by Franco Moretti's lab.
 Chapter 4 will deal with a cluster of practices that I unify under the rubric
 of "knowledge design": a sphere of scholarly activity that involves online
 critical edition-making, archive formation, digitization, creation of tagged
-corpora, collaborative annotation, and textual interface design. As with the
-previous chapter, my aim here is to show the continuity of these practices with
-traditional concerns in literary studies like textual criticism, print-making,
-and book design.
+corpora, collaborative annotation, mapping, data visualization, and textual
+interface design. As with the previous chapter, my aim here is to show the
+continuity of these practices with traditional concerns in literary studies
+like textual criticism, print-making, and book design.
 
 Knowledge design, as I will then argue, is fundamental not only to the *study*
 of literature, but also to the material structure of the literary encounter,
