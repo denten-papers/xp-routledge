@@ -210,8 +210,8 @@ attention.
 
 ### Chapter 1: Literature and the Digital Humanities Now
 
-The first chapter will pose and begin answering questions that the rest of the
-book: What are the digital humanities? and Why do they matter? In making a
+The first chapter will pose and begin answering the questions central to the
+project: What are the digital humanities? and Why do they matter? In making a
 broad summary of the field, I organize the variety of existing practices into
 three main categories. The first deals with computational approaches to the
 study of literature and culture. Like the computational turn affecting many
