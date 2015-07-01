@@ -339,30 +339,9 @@ free culture.
 
 ## Part III: Field Reflections
 
-### Chapter 6: Literature Laboratories
+### Chapter 6: Ethics of Shared Labor
 
-The goal of this chapter is to introduce the reader to everyday "laboratory
-life" as reflected by the activity of research groups whose work happens at the
-intersection of literary studies and the digital humanities. To write this
-chapter, I plan to interview (by email or in person) founders and primary
-investigators from several distinct "literary labs." To these ends I have begun
-making contacts at Stanford, University of Virginia, UCLA, Arizona State, MSU,
-University of Nebraska, McGill, and Chicago among other institutions. From each
-of these places I am soliciting responses to the following questions (to be
-further refined in consultation with an anthropologist):
-
-- What does it mean for you to run a "laboratory" in the humanities?
-- Describe your space.
-- How often do you meet?
-- What is your governance structure?
-- What roles do you assign to your participants?
-- How do you handle issues of labor and attribution?
-- How do you distribute your findings?
-- What is your research program? How do you describe your work?
-- What methodologies do you use?
-- How does your work connect to literary and cultural studies?
-- How do you address training?
-- What other fields / departments are involved?
+Tanya Clement. 3 case studies.
 
 Given her interest in DH field work, it is likely that Tanya Clement (Assistant
 Professor in the School of Information at the University of Texas, Austin) will
