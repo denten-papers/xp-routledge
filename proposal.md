@@ -20,7 +20,7 @@ To make sense of this complicated landscape, I present a clear map of the
 field, divided into three distinct regions or sub-fields: computational
 methodology, knowledge design, and critical making. These regions structure the
 descriptive part of the narrative. Not meant to be exhaustive, each of the
-book's three central chapters will contain a case study indicative of the
+book's three central chapters contains a case study indicative of the
 sub-field. Comprising Part II and the core of the book, these chapters connect
 recent developments in the digital humanities with long-standing concerns in
 literary study.
@@ -29,69 +29,63 @@ Flanking these central chapters is an argument about the past and the future of
 both disciplines.
 
 In Part I, I argue against the common, "shallow" historical vision of the
-digital humanities. According to most accounts, the field has its roots in the
+digital humanities. According to many accounts, the field has its roots in
 mid-twentieth century collaborations between Roberto Busa and Thomas J. Watson,
 the founder of IBM. By contrast, I expand that intellectual history to include
 formalism and structuralism more broadly, along with applied practices like
 print making and textual scholarship that were always central the study of
-literature. The expansion allows us to move beyond the narrow "computers in the
-humanities" narrative. The return to formalism, as I argue in this section,
-cannot proceed without taking into an account the history of post-structuralist
-critique.
+literature.
 
-Part III looks to the future, articulating three major powerful critiques
-levelled against the digital humanities. The first of these accuses the field
-of excessive positivism, implying that the digital humanities advance through
-the academy by the implicit logic of expansionary neo-liberalism. The second
+Part III looks to the future, articulating three powerful critiques levelled
+against the digital humanities. The first of these accuses the field of
+excessive positivism, implying that the digital humanities advance through the
+academy by the implicit logic of expansionary neo-liberalism. The second
 criticises the field for its lack of attention to issues of gender, race,
 class, and ethnicity. Finally, I outline the beginnings of a global DH
 movement, which takes issue with the field's privileging of the
 English-speaking, North-American, European-centric view of the world. Rather
 than dismiss these concerns, I point to recent developments---projects and
-publications---that are taking the field in new and more critically-aware
-directions.
+publications---that take the field in new and more critically-aware directions.
 
-The book concludes with a discussion on reception of DH in literary
-departments. The practice of digital humanities needs to better connect to the
-theoretical foundations of literary studies, I will argue. At the same time,
-the practice of the digital humanities offers a way to expand the purview of
-literary scholarship.
+The book concludes with a discussion on the reception of DH in literary
+departments. To make a lasting impact, the practice of digital humanities needs
+to better connect to the theoretical foundations of literary studies. At the
+same time, the practice of the digital humanities offers a way to expand the
+purview of literary scholarship.
 
 # Chapter Outline
 
 ## Part I: Pasts and Presents
 
-## Chapter 1: Literature and the Digital Humanities
+### Chapter 1: Literature and the Digital Humanities
 
-The first chapter will introduce the reader to the field of the digital
-humanities, particularly as it relates to the study of literature. My goal in
-this chapter is to answer two main questions: What are the digital humanities?
-and Why do they matter? The answer comes in presenting the reader with several
-exciting developments in the field. These developments, as I will show
-generally fall into one of three categories, structuring the core of the book.
-In summarising the state of the field today, the reader will become familiar
-with its major organs of publication, conferences, and professional
-organizations. Throughout, I place an emphasis on the "DH way" of doings
-things, which differs from traditional scholarship in that its emphasis
-collaboration, project-based research, experimentation, and artifactual
-knowledge.
+The first chapter introduces the reader to the field of the digital humanities,
+particularly as it relates to the study of literature. My goal in this chapter
+is to answer two main questions: What are the digital humanities? and Why do
+they matter? The answer comes in presenting the reader with several exciting
+developments in the field. These developments generally fall into one of three
+categories, structuring the core of the book. In summarising the state of the
+field today, the reader will become familiar with its major organs of
+publication, conferences, and professional organizations. Throughout, I place
+an emphasis on the "DH way" of doings things, which complements traditional
+scholarship in emphasizing collaboration, project-based research,
+experimentation, and artifactual knowledge.
 
 ### Chapter 2: Intellectual Roots
 
-The second chapter addresses the long history of the digital humanities.  It
+The second chapter addresses the long history of the digital humanities. It
 begins with several foundational moments: the coinage of the term itself and
 its previous incarnation as literary and linguistic computing. In
 counterbalance to the "shallow" version of the field's intellectual roots, I
-will then extend each of the three subfields to deeper, long standing concerns
-in literary scholarship. In this way, computation connects to formalism and
-structuralism. I will show how recent efforts to digitize texts and to make
+then extend each of the three subfields to deeper, long standing concerns in
+literary scholarship. In this way, computation connects to formalism and
+structuralism. I then show how recent efforts to digitize texts and to make
 critical editions available online relate to textual scholarship and to book
-history and design. Finally I will make parallels between critical making and
-critical theory. I mean for these juxtapositions to challenge any facile
-assumptions and to bring the two fields closer together, as a matter of shared
-intellectual lineage.
+history and design. Finally, I draw out parallels between critical making and
+critical theory. These juxtapositions build a case for a shared intellectual
+lineage formative of both fields.
 
-## Part II: Contemporary Theory and Practice
+## Part II: Theory and Practice
 
 ### Chapter 3: Computational Turn
 
@@ -112,7 +106,7 @@ influential Literary Lab pamphlet series.
 ### Chapter 4: Knowledge Design
 
 I summarize the second broad category of activity under the rubric of
-"knowledge design." In this category we find long-standing literary scholarly
+"knowledge design." In this category, we find long-standing literary scholarly
 practices of critical edition-making and textual scholarship. On the basis of a
 case study of ECDA (Early Caribbean Digital Archive), I discuss the difference
 between print and digital archives. Taking the "How is it Made?" approach
@@ -121,41 +115,65 @@ reveal a complicated blend of technologies that enable scholars to build new
 ways of interacting with textual material.
 
 Knowledge design, as I then argue, is fundamental not only to the *study* of
-literature, but also to the material structure of the literary encounter, which
-affects all higher modes of reading, writing, and interpretation. For example,
-the building of libraries and archives shapes the formation of shared cultural
-memory. All forms of contemporary textuality (including print) pass through
-some form of digital being, and are transformed in the journey. I build on
-Jerome McGann's concept of text deformation to argue that an understanding of
-the ways in which texts are transformed physically must remain a critical part
-of literary scholarship.
+literature, but also to the material structure of the literary encounter,
+affecting all higher modes of reading, writing, and interpretation. For
+example, the simple act of bringing documents together into an archive can have
+significant long-term effects on the reception of an author's legacy. All forms
+of contemporary textuality (including print) pass through some form of digital
+being, and are thereby transformed in the process. I build on Jerome McGann's
+concept of "text deformation" to argue for the importance of the technological
+specifics of that metamorphosis. To know what and how the text means, one now
+also must understand how it is shaped by its medium. And despite their apparent
+similarity, books and e-books place fundamentally differing constraints on the
+process of reading. For this reason, the design of literary artifacts cannot be
+left to technologists alone. Because the form of the book is in flux, fields
+like book history can now extend their expertise into actively shaping the
+future of the literary artifact.
 
 ### Chapter 5: Critical Making
 
-Finally, I identify the third type of activity common to the field as "critical
-making." Embodied in the work of collectives like the Critical Making Lab at
-the University of Toronto and of scholars like Johanna Drucker, Matt Anne
-Burdick, and Garnet Hertz (among many others), critical making supplements
-writing and thought, the traditional realms of a literary scholar, with
-rigorous practice. But what does it mean to "build" or to "make" in a
-literature department? Like critical theory, critical making is aimed at social
-transformation. Literary critical making involves regaining the material
-contexts of knowledge production. The chapter centers around a case study based
-on *sx:archipelagos*, a project to transform a prominent post-colonial journal
-into an open access publishing platform, powered by free software. In c
+Finally, I identify the third region of DH activity as "critical making."
+Embodied in the work of collectives like the Critical Making Lab at the
+University of Toronto and of scholars like Johanna Drucker, Matt Anne Burdick,
+and Garnet Hertz (among many others), critical making supplements thought, the
+traditional realm of a literary scholar, with rigorous practice.
+
+But what does it mean to "build" or to "make" in a literature department? Like
+critical theory, critical making is aimed at social transformation. *Literary*
+critical making involves regaining the material contexts of knowledge
+production. The chapter centers on a case study based on *sx:archipelagos*, a
+project to revamp a prominent post-colonial journal into an open access
+publishing platform, powered by free software. The case study opens the way to
+a discussion of literary technologies like Pandoc and Markdown, along with
+political developments in the fields of open access and free software. These
+tools and practices have wider institutional significance in making scholarly
+research more accessible to the world.
 
 ## Part III: Futures
 
-### Chapter 6: Criticism
+### Chapter 6: Criticisms
+
+In Chapter 6, I advance three lines of critique against the digital humanities.
+The first sees the computational legacy of the field as an implicit
+continuation of a positivist and reductive mode of literary analysis. The
+field's explicit concern with instrumental reason consequently makes it
+susceptible to the expansionary logic of the marketplace. The emphasis on
+high-performance computing and big data analysis furthremore advances a
+distinctly Western (and English-speaking) vision of the digital realm. The
+"dark side" of the digital humanities develops tools and methodologies in
+parallel with those used for censorship and surveilance. Finally, the field has
+long lacked subtelty when dealing with issues of gender, race, class, and
+ethnicity.
 
 ### Chapter 7: Ways Forward
 
-The chapter and the book will end with a productive discussion about what can
-be done to mitigate some of these concerns. In conclusion, I will argue that in
-order to be effective, the field needs to better connect emerging practices of
-critical making and computational methodology to a robust sense of literary
-thought and history. Critical practice, as I will explain, involves reclaiming
-the material bases of knowledge production. More than a set of methodologies,
+In the last chapter of the book, I will maintain that the digital humanities
+cannot mature as a field without taking into account the grave concerns
+outlined in Chapter 6. I proceed to describe the emerging outlines of the
+"second wave" in the digital humanities: more global, more nuanced, and more
+critically aware than the first. In conclusion, I argue that in order to
+thrive, the field needs to better connect emerging digital practices to a
+robust sense of literary thought and history. More than a set of methodologies,
 the digital humanities ultimately enlarge the sphere of literary-critical
 activity. But the expansion of the field comes also with new responsibilities:
 the need for more training, resources, and digital literacy.
@@ -177,56 +195,6 @@ will contain a glossary of key operational terms.
 will contain a schematic for self-directed study in the humanities and a
 blueprint for a possible curriculum for a certificate-granting program in the
 field.
-
-# Definition of the Market
-
-The primary market for *Literature and the Digital Humanities* includes:
-
-- advanced undergraduate courses in literary studies wishing to introduce their
-  students to the field of digital humanities and computational culture
-studies;
-
-- introductory level graduate courses for all doctorate and MA-level students
-  entering the field of literary studies, covering DH as part of their "Intro
-to the Field," "Pro-seminar," or "MA seminar," as required in most language and
-literature programs globally and across the country;
-
-- the large share of self-directed graduate students whose institutions do not
-  offer DH training;
-
-- faculty and staff (librarians, officers of scholarly publications) interested
-  in expanding their research and activity in the field.
-
-A secondary market for the book includes students and scholars in engineering
-schools interested in finding productive intersections between literary studies
-and computer science.
-
-Several prominent institutions are beginning to offer degree- or
-certificate-granting programs in the digital humanities. These include
-undergraduate, MA, and PhD programs at King's College London, University
-College, London, and University College, Cork; undergraduate and MA programs at
-Loyola University, Chicago; the Digital Humanities Minor at UCLA; the DH
-undergraduate program at Michigan State University; the DH and Technology
-program at Brigham Young; the MA program in Humanities Computing at University
-of Alberta, Canada; the MA program in DH at CUNY; the Digital Cultures and
-Creativity undergraduate program at University of Maryland; the MA in DH at
-Brandeis University; the MA in Digital Humanities at the University of
-Virginia; Media Technology and Games program at the IT University of
-Copenhagen; MA and PhD in Digital Humanities at Maynooth University, Ireland;
-the Digital Media and Cultural Theory undergraduate program at Hampshire
-College, Amherst; the Certificate program in DH at University of North Carolina
-at Chapel Hill; the Arts, Media + Engineering undergraduate program at Arizona
-State; the Bachelor of Science in Digital Humanities at the Illinois Institute
-of Technology, and many others, along with undergraduate minors and
-non-degree-granting research centers that offer courses too numerous to mention
-here.
-
-Although I have concentrated my summary of potential markets on universities in
-English-speaking countries (primarily Canada, the Republic of Ireland, the
-United Kingdom, Australia, New Zealand, and the United States), there are
-significant markets for English-language work in DH globally. Institutions in
-Sweden, Germany, Israel, and Denmark, among other places, are particularly
-strong in this field and commonly assign English texts.
 
 # Review of the Main Competitive Books
 
@@ -339,9 +307,59 @@ attention.
 
 [^ln-terras]: 314 pages. $120 cloth, £25 paper and e-book.
 
+# Definition of the Market
+
+The primary market for *Literature and the Digital Humanities* includes:
+
+- advanced undergraduate courses in literary studies wishing to introduce their
+  students to the field of digital humanities and computational culture
+studies;
+
+- introductory level graduate courses for all doctorate and MA-level students
+  entering the field of literary studies, covering DH as part of their "Intro
+to the Field," "Pro-seminar," or "MA seminar," as required in most language and
+literature programs globally and across the country;
+
+- the large share of self-directed graduate students whose institutions do not
+  offer DH training;
+
+- faculty and staff (librarians, officers of scholarly publications) interested
+  in expanding their research and activity in the field.
+
+A secondary market for the book includes students and scholars in engineering
+schools interested in finding productive intersections between literary studies
+and computer science.
+
+Several prominent institutions are beginning to offer degree- or
+certificate-granting programs in the digital humanities. These include
+undergraduate, MA, and PhD programs at King's College London, University
+College, London, and University College, Cork; undergraduate and MA programs at
+Loyola University, Chicago; the Digital Humanities Minor at UCLA; the DH
+undergraduate program at Michigan State University; the DH and Technology
+program at Brigham Young; the MA program in Humanities Computing at University
+of Alberta, Canada; the MA program in DH at CUNY; the Digital Cultures and
+Creativity undergraduate program at University of Maryland; the MA in DH at
+Brandeis University; the MA in Digital Humanities at the University of
+Virginia; Media Technology and Games program at the IT University of
+Copenhagen; MA and PhD in Digital Humanities at Maynooth University, Ireland;
+the Digital Media and Cultural Theory undergraduate program at Hampshire
+College, Amherst; the Certificate program in DH at University of North Carolina
+at Chapel Hill; the Arts, Media + Engineering undergraduate program at Arizona
+State; the Bachelor of Science in Digital Humanities at the Illinois Institute
+of Technology, and many others, along with undergraduate minors and
+non-degree-granting research centers that offer courses too numerous to mention
+here.
+
+Although I have concentrated my summary of potential markets on universities in
+English-speaking countries (primarily Canada, the Republic of Ireland, the
+United Kingdom, Australia, New Zealand, and the United States), there are
+significant markets for English-language work in DH globally. Institutions in
+Sweden, Germany, Israel, and Denmark, among other places, are particularly
+strong in this field and commonly assign English texts.
+
 # Format and Timing
 
 I estimate chapters of 10,000 words in length, which in combination with the
 appendices will put the manuscript at roughly 80,000 words. The book will have
 6--12 line drawings (figures and tables). I plan on having a draft of the
-manuscript ready by January 1, 2016.
+manuscript ready by February 1, 2016.
