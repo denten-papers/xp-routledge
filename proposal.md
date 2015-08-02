@@ -39,7 +39,7 @@ literature.
 Part III looks to the future, articulating three powerful critiques levelled
 against the digital humanities. The first of these accuses the field of
 excessive positivism, implying that the digital humanities advance through the
-academy by the implicit logic of expansionary neo-liberalism. The second
+academy by the implicit logic of expansionary neoliberalism. The second
 criticises the field for its lack of attention to issues of gender, race,
 class, and ethnicity. Finally, I outline the beginnings of a global DH
 movement, which takes issue with the field's privileging of the
@@ -48,10 +48,10 @@ than dismiss these concerns, I point to recent developments---projects and
 publications---that take the field in new and more critically-aware directions.
 
 The book concludes with a discussion on the reception of DH in literary
-departments. To make a lasting impact, the practice of digital humanities needs
-to better connect to the theoretical foundations of literary studies. At the
-same time, the practice of the digital humanities offers a way to expand the
-purview of literary scholarship.
+departments. I contend that to make a lasting impact, the practice of digital
+humanities needs to better connect to the theoretical foundations of literary
+studies. At the same time, the practice of the digital humanities offers a way
+to expand the purview of literary scholarship.
 
 # Chapter Outline
 
@@ -64,8 +64,8 @@ particularly as it relates to the study of literature. My goal in this chapter
 is to answer two main questions: What are the digital humanities? and Why do
 they matter? The answer comes in presenting the reader with several exciting
 developments in the field. These developments generally fall into one of three
-categories, structuring the core of the book. In summarising the state of the
-field today, the reader will become familiar with its major organs of
+related categories, structuring the core of the book. In summarising the state
+of the field today, the reader will become familiar with its major organs of
 publication, conferences, and professional organizations. Throughout, I place
 an emphasis on the "DH way" of doings things, which complements traditional
 scholarship in emphasizing collaboration, project-based research,
@@ -83,25 +83,25 @@ structuralism. I then show how recent efforts to digitize texts and to make
 critical editions available online relate to textual scholarship and to book
 history and design. Finally, I draw out parallels between critical making and
 critical theory. These juxtapositions build a case for a shared intellectual
-lineage formative of both fields.
+lineage, formative of both fields.
 
 ## Part II: Theory and Practice
 
 ### Chapter 3: Computational Turn
 
-Chapter 3 deals with the first of the three broad sub-fields: computation as a
-method of study. I begin by contextualizing the turn towards "distant reading"
-in literary studies within the larger "computational turn," affecting
-disciplines across the university. The various approaches to distant reading
-include macroanalysis in literary studies, culturomics in social science,
-e-discovery in law, automatic essay evaluation in education, and medical
-informatics in medicine, among others. A common set of methodologies supports
-the research activity across all of these fields. In describing the
-computational toolkit available for literary studies, I present not only the
-possibilities but also the challenges of using quantitative methods to advance
-humanistic inquiry. The chapter concludes with a case study on "Style at the
-Scale of the Sentence," by Sarah Allison et.al, appearing in Franco Morretti's
-influential Literary Lab pamphlet series.
+Chapter 3 deals with the first of the three broad sub-fields: computational
+methodology. I begin by contextualizing the turn towards "distant reading" in
+literary studies within the larger "computational turn," affecting disciplines
+across the university. The various approaches to distant reading include
+macroanalysis in literary studies, culturomics in social science, e-discovery
+in law, automatic essay evaluation in education, and medical informatics in
+medicine, among others. These diverse approaches to the study of texts in
+varying contexts are bolstered by a common set of tools and methods. In
+describing the computational toolkit available for literary studies, I present
+not only the possibilities but also the challenges of using quantitative
+methods to advance humanistic inquiry. The chapter concludes with a case study
+on "Style at the Scale of the Sentence," by Sarah Allison et.al, appearing in
+Franco Morretti's influential Literary Lab pamphlet series.
 
 ### Chapter 4: Knowledge Design
 
@@ -134,13 +134,13 @@ future of the literary artifact.
 
 Finally, I identify the third region of DH activity as "critical making."
 Embodied in the work of collectives like the Critical Making Lab at the
-University of Toronto and of scholars like Johanna Drucker, Matt Anne Burdick,
-and Garnet Hertz (among many others), critical making supplements thought, the
-traditional realm of a literary scholar, with rigorous practice.
+University of Toronto and of scholars like Johanna Drucker, Matt Ratto, Anne
+Burdick, and Garnet Hertz (among many others), critical making supplements
+thought, the traditional realm of a literary scholar, with rigorous practice.
 
 But what does it mean to "build" or to "make" in a literature department? Like
 critical theory, critical making is aimed at social transformation. *Literary*
-critical making involves regaining the material contexts of knowledge
+critical making involves regaining the material contexts of textual knowledge
 production. The chapter centers on a case study based on *sx:archipelagos*, a
 project to revamp a prominent post-colonial journal into an open access
 publishing platform, powered by free software. The case study opens the way to
@@ -158,12 +158,12 @@ The first sees the computational legacy of the field as an implicit
 continuation of a positivist and reductive mode of literary analysis. The
 field's explicit concern with instrumental reason consequently makes it
 susceptible to the expansionary logic of the marketplace. The emphasis on
-high-performance computing and big data analysis furthremore advances a
-distinctly Western (and English-speaking) vision of the digital realm. The
-"dark side" of the digital humanities develops tools and methodologies in
-parallel with those used for censorship and surveilance. Finally, the field has
-long lacked subtelty when dealing with issues of gender, race, class, and
-ethnicity.
+high-performance computing and big data analysis furthermore advances a
+distinctly Western and English-speaking vision of the digital realm. We must
+also acknowledge that the tools and methods of the digital humanities, used for
+analysis and interpretation, often develop in parallel with those used for
+censorship and surveillance. Finally, the field has long lacked subtlety when
+dealing with issues of gender, race, class, and ethnicity.
 
 ### Chapter 7: Ways Forward
 
@@ -171,7 +171,7 @@ In the last chapter of the book, I will maintain that the digital humanities
 cannot mature as a field without taking into account the grave concerns
 outlined in Chapter 6. I proceed to describe the emerging outlines of the
 "second wave" in the digital humanities: more global, more nuanced, and more
-critically aware than the first. In conclusion, I argue that in order to
+critically aware than the first. In conclusion, I contend that in order to
 thrive, the field needs to better connect emerging digital practices to a
 robust sense of literary thought and history. More than a set of methodologies,
 the digital humanities ultimately enlarge the sphere of literary-critical
@@ -180,21 +180,16 @@ the need for more training, resources, and digital literacy.
 
 ## Appendices
 
-#### Appendix I: Annotated Reading List
+"Appendix I: Annotated Reading List" will contain an annotated list of seminal
+books, articles, and projects that can be used as a "springboard for further
+research or study" (as per the Series Guidelines).
 
-will contain an annotated list of seminal books, articles, and projects that
-can be used as a "springboard for further research or study" (as per the Series
-Guidelines).
+"Appendix II: Glossary of Terms" will contain a glossary of key operational
+terms.
 
-#### Appendix II: Glossary of Terms
-
-will contain a glossary of key operational terms.
-
-#### Appendix III: Becoming Digital
-
-will contain a schematic for self-directed study in the humanities and a
-blueprint for a possible curriculum for a certificate-granting program in the
-field.
+"Appendix III: Becoming Digital" will contain a schematic for self-directed
+study in the humanities and a blueprint for a possible curriculum for a
+certificate-granting program in the field.
 
 # Review of the Main Competitive Books
 
@@ -204,7 +199,7 @@ The existing books could be classified into two major constellations: one,
 geared towards the more general audience of the humanistic disciplines at
 large; and another, specific to individual constituent disciplines.
 
-The formative cluster of books about the Digital Humanities more generally
+The formative cluster of books about the digital humanities more generally
 includes:
 
 - *Companion to Digital Humanities*, ed. John M. Unsworth, Susan Schreibman,
@@ -233,7 +228,7 @@ Bode and Paul Longley Arthur (Palgrave Macmillan, 2014).[^ln-advance]
 The "second generation" of DH is beginning to absorb the impact of the research
 program and administrative reform proposed by the first into its constituent
 fields. I hold that such specification is not only necessary, but also that it
-reaches a much wider audience. The application of the Digital Humanities to
+reaches a much wider audience. The application of the digital humanities to
 specific questions in literary scholarship, as they manifest in pressing
 problems of collaborative authorship, digital storytelling, the quality of
 online deliberation, and in the politics of the archive and shared memory
