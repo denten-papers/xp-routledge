@@ -26,13 +26,13 @@ recent developments in the digital humanities with long-standing concerns in
 literary study.
 
 Flanking these central chapters is an argument about the past and the future of
-both disciplines. In Part I, I argue against the common, "shallow" historical vision of the
-digital humanities. According to many accounts, the field has its roots in
-mid-twentieth-century collaborations between Roberto Busa and Thomas J. Watson,
-the founder of IBM. By contrast, I expand that intellectual history to include
-formalism and structuralism more broadly, along with applied practices like
-print making and textual scholarship that have always been central the study of
-literature.
+both disciplines. In Part I, I argue against the common, "shallow" historical
+vision of the digital humanities. According to many accounts, the field has its
+roots in mid-twentieth-century collaborations between Roberto Busa and Thomas
+J. Watson, the founder of IBM. By contrast, I expand that intellectual history
+to include formalism and structuralism more broadly, along with applied
+practices, like print making and textual scholarship, which have always been
+pertinent to the study of literature.
 
 Following the case studies of Part II, Part III looks to the future, articulating three powerful critiques leveled
 against the digital humanities. The first of these critiques accuses the field of
@@ -156,13 +156,13 @@ The first sees the computational legacy of the field as an implicit
 continuation of a positivist and reductive mode of literary analysis. The
 field's explicit concern with instrumental reason consequently makes it
 susceptible to the expansionary logic of the marketplace. The second critique
-demonstrates that the field has long lacked subtlety when
-dealing with issues of gender, race, class, and ethnicity. Finally, the emphasis on
-high-performance computing and big-data analysis advances a
-distinctly Western, English-speaking vision of the digital realm. We must
-also acknowledge that the tools and methods of the digital humanities, used for
-analysis and interpretation, often develop in parallel with those used for
-censorship and surveillance. 
+demonstrates that the field has long lacked subtlety when dealing with issues
+of gender, race, class, and ethnicity. Finally, the emphasis on
+high-performance computing and big-data analysis advances a distinctly Western,
+English-speaking vision of the digital realm. We must acknowledge that the
+tools and methods native to the digital humanities often develop in parallel
+with those used globally, to advance political goals like censorship and
+surveillance.
 
 ### Chapter 7: Ways Forward
 
@@ -226,17 +226,6 @@ includes:
 - *Advancing Digital Humanities: Research, Methods, Theories*, ed. Katherine
   Bode and Paul Longley Arthur (Palgrave Macmillan, 2014).[^ln-advance]
 
-The "second generation" of DH is beginning to absorb the impact of the research
-program and administrative reform proposed by the first into its constituent
-fields. I hold that such specification is not only necessary, but also 
-reaches a much wider audience. The application of the digital humanities to
-specific questions in literary scholarship---as they manifest in pressing
-problems of collaborative authorship, digital storytelling, the quality of
-online deliberation, and the politics of the archive and shared memory
-formation (to name just a few)---is beginning to gain a measure of specificity
-that points to concrete forms of collaboration between diverse practitioners.
-Such questions are interesting to literary scholars, computer scientists, and game designers alike.
-
 A small number of recent books have begun to direct generalist DH approaches
 and methodologies to the questions and traditions governing their specific area
 of expertise. To this category we may attribute:
@@ -250,8 +239,8 @@ of expertise. To this category we may attribute:
 - *Oral History and Digital Humanities: Voice, Access, and Engagement*, ed.
   Douglas A. Boyd and Mary A. Larson (Palgrave Macmillan, 2014).[^ln-palgrave]
 
-Some of the few major volumes in the nascent second generation pertinent to the
-study of literature include:
+Some of the few major volumes in the nascent "second wave" of DH, as it relates
+to the study of literature include:
 
 - *Reading Machines: Toward an Algorithmic Criticism*, by Stephen Ramsay (U.
   Illinois Press, 2011);[^ln-ramsay]
@@ -264,14 +253,12 @@ study of literature include:
   David L. Hoover et al. (Routledge, 2014).[^ln-hoover]
 
 In *Literature and the Digital Humanities*, my approach builds on these volumes
-to view the history of the discipline to its developing research
-program as an evolutionary process. Going beyond computation, I describe DH
-as an expansion of the literary-critical tradition, opening it up to new archives
-of study and to new methodologies. My book ends with a constructive critique of
-the field itself, noting its successes and outlining strategies to remedy its
-failures. I want my reader to leave the book with a sense of possibility:
-perceiving rich and yet unexplored areas of scholarship that urgently need our 
-attention.
+to view the history of the discipline to its developing research program as an
+evolutionary process. Going beyond computation, I describe DH as an expansion
+of the literary-critical tradition, opening it up to new archives of study and
+to new methodologies. I want my reader to leave the book with a sense of
+possibility: perceiving rich and yet unexplored areas of scholarship that
+urgently need our attention.
 
 [^ln-macro]: 208 pages. $90 cloth, $30 paper and e-book.
 
