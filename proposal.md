@@ -345,4 +345,4 @@ strong in this field and commonly assign English texts.
 I estimate chapters of 10,000 words in length, which in combination with the
 appendices will put the manuscript at roughly 80,000 words. The book will have
 6--12 line drawings (figures and tables). I plan on having a draft of the
-manuscript ready by February 1, 2016.
+manuscript ready by April 1, 2016.
