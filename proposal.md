@@ -37,7 +37,7 @@ pertinent to the study of literature.
 Following the case studies of Part II, Part III looks to the future, articulating three powerful critiques leveled
 against the digital humanities. The first of these critiques accuses the field of
 excessive positivism, implying that the digital humanities advance through the
-academy by the implicit logic of expansionary neoliberalism. The second
+academy by an implicit logic of expansionary neoliberalism. The second
 criticises the field for its lack of attention to issues of gender, race,
 class, and ethnicity. Finally, I outline the beginnings of a global DH
 movement, which takes issue with the field's privileging of the
